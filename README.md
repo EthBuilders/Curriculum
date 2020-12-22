@@ -1,7 +1,20 @@
 # Ethereum Developer Curriculum
 An Open Source Curriculum to learn about Ethereum Development
 
-## Learn the Basics 
+## Learn the Basic Information
+To learn how to develop smart contracts and Decentralized applications, its good to first interact with the protocols and tools built on Ethereum.
+
+| Topic | Available at | About |
+| ------ | ------ |------ |
+| What Is Crypto?                    | [what_is_crypto.md](what_is_crypto.md) |An quick explainer of crypto|
+| What is Ethereum?                  | [what_is_ethereum.md](what_is_ethereum.md) |An explaination of what is Ethereum|
+| What is DeFi?                      | [what_is_defi.md](what_is_defi.md]) |An explanation of what is Decentralized Finance|
+| Setup Security Best Practices      | [setup_security_best_practices.md](setup_security_best_practices.md) |Learn security tips to responsibly manage your crypto|
+| MetaMask Setup                     | [metaMask_setup.md](metaMask_setup.md) |Set up your MetaMask|
+| MetaMask Best Practices            | [metamask_best_practices.md](metamask_best_practices.md) |Make your first transaction and learn best practices|
+| Interacting with Protcols          | [interacting_with_protcols.md](interacting_with_protcols.md) |Quick Walkthrough with some protocols|
+
+## Learn the Development Basics 
 | Topic | Available at | About |
 | ------ | ------ |------ |
 | Front End             | [front_ends.md](front_ends.md) |Learn JavaScript, React, NodeJS|
@@ -20,8 +33,9 @@ An Open Source Curriculum to learn about Ethereum Development
 | Open Source Collaboration | [open_source.md](design_patterns.md) | Learn to work in teams and collaborate with others through open source |
 | Hackathons  | [hackathons.md](hackathonss.md) | Level up and learn basics of design thinking and project management to compete in hackathons |
 
-
 ## Basic Projects 
+A walk through of basic projects you can learn by following along.
+
 | Topic | Available at | About |
 | ------ | ------ |------ |
 | Social tokens | [front_ends.md](front_ends.md) | Build a fungible ERC-20 token |
@@ -54,4 +68,7 @@ An Open Source Curriculum to learn about Ethereum Development
 ### Derivatives
 | Topic | Available at | About |
 | ------ | ------ |------ |
-| Synthetix | [synthetix.md](synthetix.md) | Derivatives creation protocols |
+| Synthetix | [synthetix.md](synthetix.md) | Derivatives creation protocol |
+| UMA | [uma.md](uma.md) | Another derivatives creation protocol |
+
+
