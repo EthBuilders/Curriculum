@@ -40,7 +40,7 @@ To learn how to develop smart contracts and Decentralized applications, its good
 ## Learn how to Collaborate
 | Status | Topic | Available at | About |
 | ------ | ------ | ------ |------ |
-|⚠️| Open Source Collaboration | [open_source.md](design_patterns.md) | Learn to work in teams and collaborate with others through open source |
+|👷| Open Source Collaboration | [open_source.md](design_patterns.md) | Learn to work in teams and collaborate with others through open source |
 |⚠️| Hackathons  | [hackathons.md](hackathonss.md) | Level up and learn basics of design thinking and project management to compete in hackathons |
 
 ## Basic Projects 
