@@ -11,8 +11,8 @@ Helpful emojis to let you know status of each section
 | ✅                    | DONE             |
 
 
-## Learn the Basic Information
-To learn how to develop smart contracts and Decentralized applications, its good to first interact with the protocols and tools built on Ethereum.
+## Learn how to use Ethereum
+Learn how to interact with the protocols and tools built on Ethereum as a user.
 
 | Status | Topic | Available at | About |
 | ------ | ------ | ------ |------ |
