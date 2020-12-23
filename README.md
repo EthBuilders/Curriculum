@@ -66,8 +66,8 @@ A walk through of basic projects you can learn by following along.
 
 | Status | Topic | About |
 | ------ | ------ | ------ |
-|⚠️| UniSwap | [uniswap.md](uniswap.md) | Automatic market makers and decentralized exchanges |
-|⚠️| AirSwap | [airswap.md](airswap.md) | Request for Quote and decentralized exchanges |
+|⚠️| [UniSwap](uniswap.md) | Automatic market makers and decentralized exchanges |
+|⚠️| [AirSwap](airswap.md) | Request for Quote and decentralized exchanges |
 
 ### Lending
 | Status | Topic | About |
