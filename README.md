@@ -42,6 +42,12 @@ Learn how to interact with the protocols and tools built on Ethereum as a user.
 |⚠️| [Security Patterns](security_patterns.md) |Security considerations to protect against hacks|
 |⚠️| [Design Patterns](design_patterns.md) |Design patterns for smart contract development|
 
+## Learn Intermediate Development 
+| Status | Topic | About |
+| ------ | ------ | ------ |
+|⚠️| [Vyper](vyper.md) | Pythonic-like smart contract programming language for Ethereum |
+|⚠️| [Scribble](vyper.md) | A runtime verification tool to transform contracts to check properties for easier testing |
+
 ## Learn how to Collaborate
 | Status | Topic | About |
 | ------ | ------ | ------ |
