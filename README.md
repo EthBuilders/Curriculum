@@ -7,7 +7,7 @@ An Open Source Curriculum to learn about Ethereum Development
 **Goal:** Have 80% of the "Learn the Development Basics " by the end of March 2021.
 
 **Other sections:**\
-[Learn how to use Etheruem](./use_ethereum.md)
+[Learn how to use Etheruem](./use_ethereum.md) \
 [Learn about the DeFi Protocols](./protocols.md)
 
 ## Legend
