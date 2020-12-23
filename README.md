@@ -8,7 +8,7 @@ An Open Source Curriculum to learn about Ethereum Development
 
 **Other sections:**\
 [Learn how to use Etheruem](./use_ethereum.md) \
-[Learn about the DeFi Protocols](./protocols.md)
+[Learn about DeFi Protocols](./protocols.md)
 
 ## Legend
 
