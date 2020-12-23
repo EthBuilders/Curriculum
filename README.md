@@ -1,6 +1,10 @@
 # Ethereum Developer Curriculum
 An Open Source Curriculum to learn about Ethereum Development
 
+**Purpose:** Provide the best and easiest to use open source materials to learn Ethereum development in-depth. \
+**Goal:** Have 80% of the "Learn the Development Basics " by the end of March 20201.
+
+
 ## Legend
 Helpful emojis to let you know status of each section
 | Legend | Description |
