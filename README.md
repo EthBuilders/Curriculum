@@ -54,6 +54,7 @@ A walk through of basic projects you can learn by following along.
 | ------ | ------ | ------ |
 |⚠️| [Social tokens](social_tokens.md) | Build a fungible ERC-20 token |
 |⚠️| [Art and non fungible tokens](art_and_non_fungible_tokens.md) | Build art for hype beasts |
+|⚠️| [Build a Marketplace](build_a_marketplace.md) | Build a decentralized marketplace to trade|
 |⚠️| [TBD]() | To be determined - open an issue or pull request |
 
 ## Learn the Protocols
