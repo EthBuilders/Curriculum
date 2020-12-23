@@ -27,7 +27,7 @@ Helpful emojis to let you know status of each section
 |✅ | [JavaScript Basics](https://www.codecademy.com/learn/introduction-to-javascript) |The defacto langauge for web app user interfaces| Codecademy |
 |✅ | [React 101](https://www.codecademy.com/learn/react-101) |The leading library to build App user interfaces| Codecademy |
 |✅ | [React 102](https://www.codecademy.com/learn/react-102) |Go more in-depth with React | Codecademy |
-|✅ | [NodeJS]([front_end.md](https://nodejs.dev/learn)) |Executes JavaScript outside browser and used heavily in Ethereum Development  | NodeJS.Dev |
+|✅ | [NodeJS]((https://nodejs.dev/learn)) |Executes JavaScript outside browser and used heavily in Ethereum Development  | NodeJS.Dev |
 
 ## Intermediate Front End Development  
 
