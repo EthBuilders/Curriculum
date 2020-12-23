@@ -7,7 +7,7 @@ Helpful emojis to let you know status of each section
 | ------ | ------ |
 | ⚠️                     | UNDER DEVELOPMENT|
 | 👷                    | IN PROGRESS      |
-| 🏗️                   | NEEDS HELP       |
+| 🏗️                    | NEEDS HELP       |
 | ✅                    | DONE             |
 
 
@@ -48,20 +48,20 @@ A walk through of basic projects you can learn by following along.
 
 | Status | Topic | Available at | About |
 | ------ | ------ | ------ |------ |
-|⚠️| Social tokens | [front_ends.md](front_ends.md) | Build a fungible ERC-20 token |
+|⚠️| Social tokens | [front_end.md](front_end.md) | Build a fungible ERC-20 token |
 |⚠️| List on UniSwap | [blockchain_basics.md](blockchain_basics.md) | Build art for hype beasts |
 |⚠️| Art and non fungible tokens | [blockchain_basics.md](blockchain_basics.md) | Build art for hype beasts |
-|⚠️| TBD              | []() | To be determined - open a pull request |
+|⚠️| TBD              | []() | To be determined - open an issue or pull request |
 
 ## Learn the Protocols
 
 ### Stablecoins
 | Status | Topic | Available at | About |
 | ------ | ------ | ------ |------ |
-|⚠️| Tether          | [tether.md](front_ends.md) | Stablecoin with Fiat US dollar Collateral |
-|⚠️| USDC            | [usdc.md](front_ends.md) | Stablecoin with Fiat US dollar Collateral |
-|⚠️| DAI             | [dai.md](front_ends.md) | Decentralized Stablecoin with Crypto Collateral |
-|⚠️| AmpleForth      | [ampleforth.md](front_ends.md) | Algorithmic Decentralized Stablecoin with no Collateral |
+|⚠️| Tether          | [tether.md](tether.md.md) | Stablecoin with Fiat US dollar Collateral |
+|⚠️| USDC            | [usdc.md](usdc.md.md) | Stablecoin with Fiat US dollar Collateral |
+|⚠️| DAI             | [dai.md](dai.md) | Decentralized Stablecoin with Crypto Collateral |
+|⚠️| AmpleForth      | [ampleforth.md](ampleforth.md) | Algorithmic Decentralized Stablecoin with no Collateral |
 
 ### Exchanges
 
@@ -73,7 +73,7 @@ A walk through of basic projects you can learn by following along.
 ### Lending
 | Status | Topic | Available at | About |
 | ------ | ------ | ------ |------ |
-|⚠️| Compound Finance | [compound.md](blockchain_basics.md) | Lending Desks and interest generating protocol |
+|⚠️| Compound Finance | [compound_finance.md](blockchain_basics.md) | Lending Desks and interest generating protocol |
 
 ### Derivatives
 | Status | Topic | Available at | About |
