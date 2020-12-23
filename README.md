@@ -29,7 +29,7 @@ Learn how to interact with the protocols and tools built on Ethereum as a user.
 | ------ | ------ | ------ |------ |
 |⚠️| Front End             | [front_ends.md](front_ends.md) |Learn JavaScript, React, NodeJS|
 |⚠️| Blockchain Basics     | [blockchain_basics.md](blockchain_basics.md) |Blockchain and Ethereum architecture|
-|⚠️| Solidity              | [Solidity.md](Solidity.md) |Ethereum's smart contract programming language |
+|⚠️| Solidity              | [solidity.md](solidity.md) |Ethereum's smart contract programming language |
 |⚠️| Advanced Solidity     | [advanced_solidity.md](advanced_solidity.md) |Ethereum's smart contract programming language |
 |⚠️| Developer Environment | [developer_environment.md](developer_environment.md) |Basic tooling for developers|
 |⚠️| Truffle Development Environment | [truffle_development_environment.md](truffle_development_environment.md) |Development environment for smart contracts|
@@ -40,7 +40,7 @@ Learn how to interact with the protocols and tools built on Ethereum as a user.
 ## Learn how to Collaborate
 | Status | Topic | Available at | About |
 | ------ | ------ | ------ |------ |
-|👷| Open Source Collaboration | [open_source.md](design_patterns.md) | Learn to work in teams and collaborate with others through open source |
+|👷| Open Source Collaboration | [open_source.md](open_source.md) | Learn to work in teams and collaborate with others through open source |
 |⚠️| Hackathons  | [hackathons.md](hackathonss.md) | Level up and learn basics of design thinking and project management to compete in hackathons |
 
 ## Basic Projects 
@@ -48,9 +48,8 @@ A walk through of basic projects you can learn by following along.
 
 | Status | Topic | Available at | About |
 | ------ | ------ | ------ |------ |
-|⚠️| Social tokens | [front_end.md](front_end.md) | Build a fungible ERC-20 token |
-|⚠️| List on UniSwap | [blockchain_basics.md](blockchain_basics.md) | Build art for hype beasts |
-|⚠️| Art and non fungible tokens | [blockchain_basics.md](blockchain_basics.md) | Build art for hype beasts |
+|⚠️| Social tokens | [social_tokens.md](social_tokens.md) | Build a fungible ERC-20 token |
+|⚠️| Art and non fungible tokens | [art_and_non_fungible_tokens.md](art_and_non_fungible_tokens.md) | Build art for hype beasts |
 |⚠️| TBD              | []() | To be determined - open an issue or pull request |
 
 ## Learn the Protocols
