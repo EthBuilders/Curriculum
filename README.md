@@ -59,3 +59,10 @@ A walk through of basic projects you can learn by following along.
 |⚠️| [Art and non fungible tokens](art_and_non_fungible_tokens.md) | Build art for hype beasts |
 |⚠️| [Build a Marketplace](build_a_marketplace.md) | Build a decentralized marketplace to trade|
 |⚠️| [TBD]() | To be determined - open an issue or pull request |
+
+## External Resources
+| Source | Type | About |
+| ------ | ------ | ------ |
+| [Dapp University](https://www.youtube.com/watch?v=XLahq4qyors) | Video |Full Ethereum Programming Course |
+| [ConsenSys Dev Portal](https://consensys.net/developers/) | Text | Dev Portal for ConsenSys |
+| [Ethereum.org](https://ethereum.org/en/) | Text | The Official Etheruem Website |
