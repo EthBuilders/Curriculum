@@ -14,173 +14,173 @@ Helpful emojis to let you know status of each section
 
 ## Table
 
-[A](###A) [B](###B) [C](###C) [D](###D) [E](###E) [F](###F) [G](###G) [H](###H) [I](###I) [J](###J) [K](###K) [L](###L) [M](###M) [N](###N) [O](###O) [P](###P) [Q](###Q) [R](###R) [S](###S) [T](###T) [U](###U) [V](###V) [W](###W) [X](###X) [Y](###X) [Z](###Z) \
+[A](###A) [B](###B) [C](###C) [D](###D) [E](###E) [F](###F) [G](###G) [H](###H) [I](###I) [J](###j) [K](###K) [L](###L) [M](###M) [N](###N) [O](###O) [P](###P) [Q](###Q) [R](###R) [S](###S) [T](###T) [U](###U) [V](###V) [W](###W) [X](###X) [Y](###X) [Z](###Z) \
 [Special Symbols](##special-symbols)
 
-### [A](##Table)
+### [A](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ | APR |Annual Percentrage return |
 
-### [B](##Table)
+### [B](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
+| ⚠️ | Blockchain | TBD |
+
+### [C](#table)
+
+| Legend | Term | Description |
+| ------ | ------ |------ |
+| ⚠️ | Cryptography | TBD |
+
+### [D](##table)
+
+| Legend | Term | Description |
+| ------ | ------ |------ |
+| ⚠️ | distributed ledger technology | TBD |
+
+### [E](##table)
+
+| Legend | Term | Description |
+| ------ | ------ |------ |
+| ⚠️ | Ethereum  | TBD |
+
+### [F](##tables)
+
+| Legend | Term | Description |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [C](##Table)
+### [G](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [D](##Table)
+### [H](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [E](##Table)
+### [I](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [F](##Table)
+### [J](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [G](##Table)
+### [K](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [H](##Table)
+### [L](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [I](##Table)
+### [M](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [J](##Table)
+### [N](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [K](##Table)
+### [O](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [L](##Table)
+### [P](##tables)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [M](##Table)
+### [Q](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [N](##Table)
+### [R](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [O](##Table)
+### [S](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [P](##Table)
+### [T](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [Q](##Table)
+### [U](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [R](##Table)
+### [V](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [S](##Table)
+### [W](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [T](##Table)
+### [X](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [U](##Table)
+### [Y](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [V](##Table)
+### [Z](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [W](##Table)
+### [0 - 9](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ |  | TBD |
 
-### [X](##Table)
+### [Special Symbols](##table)
 
 | Legend | Term | Description |
-| ------ | ------ |------ |------ |
-| ⚠️ |  | TBD |
-
-### [Y](##Table)
-
-| Legend | Term | Description |
-| ------ | ------ |------ |------ |
-| ⚠️ |  | TBD |
-
-### [Z](##Table)
-
-| Legend | Term | Description |
-| ------ | ------ |------ |------ |
-| ⚠️ |  | TBD |
-
-### [0 - 9](##Table)
-
-| Legend | Term | Description |
-| ------ | ------ |------ |------ |
-| ⚠️ |  | TBD |
-
-### [Special Symbols](##Table)
-
-| Legend | Term | Description |
-| ------ | ------ |------ |------ |
+| ------ | ------ |------ |
 | ⚠️ | !  | TBD |
