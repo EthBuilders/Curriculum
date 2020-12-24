@@ -27,7 +27,7 @@ Helpful emojis to let you know status of each section
 | Status | Topic | About |
 | ------ | ------ | ------ |
 |⚠️| [Documentation](documentation.md) |Learn about Markdown to make immediate gains, create documents and learn to code.|
-|⚠️| [Front End](front_end.md) |Learn JavaScript, React, NodeJS|
+|👷| [Front End](front_end.md) |Learn JavaScript, React, NodeJS|
 |⚠️| [Blockchain Basics](blockchain_basics.md) |Blockchain and Ethereum architecture|
 |⚠️| [Solidity](solidity.md) |Ethereum's smart contract programming language |
 |⚠️| [Advanced Solidity](advanced_solidity.md) |Ethereum's smart contract programming language |
