@@ -14,7 +14,7 @@ Helpful emojis to let you know status of each section
 
 ## Table
 
-[A](###A) [B](###B) [C](###C) [D](###D) [E](###E) [F](###F) [G](###G) [H](###H) [I](###I) [J](###j) [K](###K) [L](###L) [M](###M) [N](###N) [O](###O) [P](###P) [Q](###Q) [R](###R) [S](###S) [T](###T) [U](###U) [V](###V) [W](###W) [X](###X) [Y](###X) [Z](###Z) \
+[A](###a) [B](###b) [C](###c) [D](###d) [E](###e) [F](###f) [G](###g) [H](###h) [I](###i) [J](###j) [K](###k) [L](###l) [M](###m) [N](###n) [O](###o) [P](###p) [Q](###q) [R](###r) [S](###s) [T](###r) [U](###u) [V](###v) [W](###w) [X](###x) [Y](###y) [Z](###z) \
 [Special Symbols](##special-symbols)
 
 ### [A](##table)
@@ -29,7 +29,7 @@ Helpful emojis to let you know status of each section
 | ------ | ------ |------ |
 | ⚠️ | Blockchain | TBD |
 
-### [C](#table)
+###[C](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
