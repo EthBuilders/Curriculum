@@ -4,11 +4,13 @@ An Open Source Curriculum to learn about Ethereum Development
 
 **Purpose:** Provide the best and easiest to use open source materials to learn Ethereum development in-depth.
 
-**Goal:** Have 80% of the "Learn the Development Basics " by the end of March 2021.
+**Goal:** Have 80% of the "Learn the Development Basics" by the end of March 2021.
 
 **Other sections:**\
 [Learn how to use Etheruem](./use_ethereum.md) \
-[Learn about DeFi Protocols](./protocols.md)
+[Learn about DeFi Protocols](./protocols.md) \
+[Learn about Finance and Economics](./finance_and_economics.md) \
+[Glossary of terms](glossary.md)
 
 ## Legend
 
