@@ -29,7 +29,7 @@ Helpful emojis to let you know status of each section
 | ------ | ------ |------ |
 | ⚠️ | Blockchain | TBD |
 
-###[C](##table)
+### [C](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
