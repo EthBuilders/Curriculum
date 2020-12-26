@@ -1,10 +1,18 @@
-# Glossary
+# Glossary 📖
 
 A glossary for common terms in Ethereum and cryptocurrencies.
 
+## Submitting terms ✍️
+
+👷 This is a great place to get started in open source. \
+⏲️ Just five mins can make a huge impact at scale.
+
+To add terms, make a pull request for review. \
+See our [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 ## Legend
 
-Helpful emojis to let you know status of each section
+Helpful emojis to let you know status of each section.
 | Legend | Description |
 | ------ | ------ |
 | ⚠️                     | UNDER DEVELOPMENT|
@@ -28,7 +36,7 @@ Helpful emojis to let you know status of each section
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ | APR |Annual Percentrage return |
+| 🏗️ | APR |Annual Percentrage return |
 
 ### [B](##table)
 
