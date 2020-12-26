@@ -36,7 +36,13 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| 🏗️ | APR |Annual Percentrage return |
+| 👷 | Absolute Advantage | An economics concept in which one party has a direct efficency advantage in producing/providing a specific good/service over another party. |
+| 👷 | Active Management | An investing strategy employed by fund managers aiming to outperform an market index in order to generate profits. |
+| 👷 | Ad Hoc | A Latin phrase used in English to mean something created when necessary, in the moment, or improvised for a specific purpose. Similar to impromptu. |
+| 👷 | Address | A string of hexidecimals that designates the location on a blockchain network. Usually meant to be only used once. |
+| 👷 | Airdrop | A form of distributing digital assets to the public. Usually distributed to current token holders, addresses that have interacted with a specific protocol or by being an active address on a blockchain. |
+| 👷 | Algorithm |  A sequence of unambigious instructions, or set of rules, used for the purpose of solving a problem. |
+| 👷 | Alpha | TBD |
 
 ### [B](##table)
 
