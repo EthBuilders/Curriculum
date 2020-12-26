@@ -42,7 +42,12 @@ Helpful emojis to let you know status of each section.
 | 👷 | Address | A string of hexidecimals that designates the location on a blockchain network. Usually meant to be only used once. |
 | 👷 | Airdrop | A form of distributing digital assets to the public. Usually distributed to current token holders, addresses that have interacted with a specific protocol or by being an active address on a blockchain. |
 | 👷 | Algorithm |  A sequence of unambigious instructions, or set of rules, used for the purpose of solving a problem. |
-| 👷 | Alpha | TBD |
+| 👷 | All or None Order (AON) |  An order which one place, must either be filled completly or not at all. This prevents any partial filing of orders. |
+| ⚠️ | All-Time High (ATH) | The highest price a of a cryptocurrency or asset in a qoute currency, such as US Dollar, BTC, or ETH |
+| ⚠️ | Allocation | The portion of tokens or equity, that may be earned, purchased, or set aside for certain entities or activites. These entities can be investors, teams, organizations, or communities. |
+| ⚠️ | Alpha (software) | The first look at a product in a very basic form released by a team. Often used in software industry. |
+| ⚠️ | Alpha (finance) | The difference between a market's index (or a representative benchmark) and an investment's return. Used to assess the performance of an investment in an active strategy. |
+| ⚠️ | Atomic Swap | TBD |
 
 ### [B](##table)
 
