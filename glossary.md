@@ -22,7 +22,7 @@ Helpful emojis to let you know status of each section
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| 👷 | 51% Attack | When a miner or group of miners control greater than 50% of the network's mining hash rate. |
 
 ### [A](##table)
 
@@ -70,7 +70,9 @@ Helpful emojis to let you know status of each section
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| 👷 | Hash | The output produced by a hash function. Also known as a digest, hash value, or hash code |
+| 👷 | Hash function | Any function used to map data of an arbitrary size to fixed-size value. Usually, it is deterministic, one way and returns a hexidecimal number output. |
+| 👷 | Hash Rate | The speed at which a computer or mining hardware calculates new hashes. Measured in hashes per second. |
 
 ### [I](##tables)
 
