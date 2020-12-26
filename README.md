@@ -1,4 +1,4 @@
-# Ethereum Developer Curriculum 📚
+# Ethereum Developer Curriculum
 
 An Open Source Curriculum to learn about Ethereum Development
 
