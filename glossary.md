@@ -57,6 +57,8 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Asset Management | A system that helps individual or companies manage assets, either for their client or for themselves.|
 | ⚠️ | Asynchronous | Events in a system that do not happen in linear (synchronous) order, or events that can occur independently of the main process flow. |
 | ⚠️ | Atomic Swap | An smart contract that allows tokens to be traded peer-to-peer without the need for a trusted third party, usually via escrow contracts and Hash timelock contracts (HCTL). They are atomic because they either are completed or not. |
+| ⚠️ | Attack surface | Areas in a software environment where an attacker can exploit its system. Successful attacks vectors are called exploits. |
+| ⚠️ | Auction | A public sale where goods, assets or services are sold to the highest bidder through a bidding process. |
 
 ### [B](##table)
 
