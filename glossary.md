@@ -65,9 +65,9 @@ Helpful emojis to let you know status of each section.
 | Legend | Term | Description |
 | ------ | ------ |------ |
 | ⚠️ | Bag | A portfolio of assets, usually cryptocurrency tokens. |
-| ⚠️ | Bear Market | TBD |
-| ⚠️ | Benchmark | TBD |
-| ⚠️ | Beta coefficient | TBD |
+| ⚠️ | Bear Market | A negative trend in a market's price.  |
+| ⚠️ | Benchmark | A measurement standard used to gauge the perfomance of an investment or portfolio. |
+| ⚠️ | Beta coefficient (finance) | A measure of a stock's volatility in relation to the overall market. Simply, its a measure of how an asset moves on average when the overall stock market increase or decreases. |
 | ⚠️ | Beta (software) | TBD |
 | ⚠️ | Bid price | TBD |
 | ⚠️ | Bid-ask spread | TBD |
