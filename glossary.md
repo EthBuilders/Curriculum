@@ -74,16 +74,16 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Bitcoin | TBD |
 | ⚠️ | Bitcoin core | TBD |
 | ⚠️ | Bitcoin dominance | TBD |
-| ⚠️ | Black swan | TBD |
+| ⚠️ | Bitcoin Improvement Proposals (BIPS) | TBD |
+| ⚠️ | Blockchain | TBD |
 | ⚠️ | Block explorer | TBD |
 | ⚠️ | Block Header | TBD |
 | ⚠️ | Block Height | TBD |
 | ⚠️ | Block Reward | TBD |
+| ⚠️ | Black swan | TBD |
 | ⚠️ | Bounty | TBD |
 | ⚠️ | BUIDL | TBD |
 | ⚠️ | Bull Market | TBD |
-| ⚠️ | Blockchain | TBD |
-| ⚠️ | BIP | TBD |
 
 ### [C](##table)
 
