@@ -53,7 +53,10 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Application-Specific Integrated Circut (ASIC) | A customized integrated circuit (aka chip) designed for maximum performance in a specific area instead of general computation. Usually used to create customized mining equipment for Bitcoin or other cryptocurrency networks to maximize rewards through increased hash power.  |
 | ⚠️ | Arbitrage | Buying and selling an asset in different markets to profit from the price difference. Buy low in one market, sell at a higher price in another. |
 | ⚠️ | ASIC-resistant | A cryptocurrency whose procotol mining algorithm is configured to remove any advantage from using ASIC machines when compared to GPU mining. Usually works by inflating the information in RAM taking advantage of the narrow link between memory and CPU. An example can be seen with Monero or Ethereum. |
-| ⚠️ | Atomic Swap | TBD |
+| ⚠️ | Ask Price | The price a seller is willing to accept on their sell order when trading an asset. Also known as the offer price.|
+| ⚠️ | Asset Management | A system that helps individual or companies manage assets, either for their client or for themselves.|
+| ⚠️ | Asynchronous | Events in a system that do not happen in linear (synchronous) order, or events that can occur independently of the main process flow. |
+| ⚠️ | Atomic Swap | An smart contract that allows tokens to be traded peer-to-peer without the need for a trusted third party, usually via escrow contracts and Hash timelock contracts (HCTL). They are atomic because they either are completed or not. |
 
 ### [B](##table)
 
