@@ -64,7 +64,7 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ | Bag | A portfolio assets, usually cryptocurrency tokens. |
+| ⚠️ | Bag | A portfolio of assets, usually cryptocurrency tokens. |
 | ⚠️ | Bear Market | TBD |
 | ⚠️ | Benchmark | TBD |
 | ⚠️ | Beta coefficient | TBD |
