@@ -41,6 +41,7 @@ Helpful emojis to let you know status of each section.
 | 👷 | Ad Hoc | A Latin phrase used in English to mean something created when necessary, in the moment, or improvised for a specific purpose. Similar to impromptu. |
 | 👷 | Address | A string of hexidecimals that designates the location on a blockchain network. Usually meant to be only used once. |
 | 👷 | Airdrop | A form of distributing digital assets to the public. Usually distributed to current token holders, addresses that have interacted with a specific protocol or by being an active address on a blockchain. |
+| 👷 | AirSwap | TBD |
 | 👷 | Algorithm |  A sequence of unambigious instructions, or set of rules, used for the purpose of solving a problem. |
 | 👷 | All or None Order (AON) |  An order which one place, must either be filled completly or not at all. This prevents any partial filing of orders. |
 | ⚠️ | All-Time High (ATH) | The highest price a of a cryptocurrency or asset in a qoute currency, such as US Dollar, BTC, or ETH. |
@@ -59,6 +60,7 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Atomic Swap | An smart contract that allows tokens to be traded peer-to-peer without the need for a trusted third party, usually via escrow contracts and Hash timelock contracts (HCTL). They are atomic because they either are completed or not. |
 | ⚠️ | Attack surface | Areas in a software environment where an attacker can exploit its system. Successful attacks vectors are called exploits. |
 | ⚠️ | Auction | A public sale where goods, assets or services are sold to the highest bidder through a bidding process. |
+| ⚠️ | Automated Market Maker (AMM) | TBD |
 
 ### [B](##table)
 
