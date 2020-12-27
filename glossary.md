@@ -43,10 +43,16 @@ Helpful emojis to let you know status of each section.
 | 👷 | Airdrop | A form of distributing digital assets to the public. Usually distributed to current token holders, addresses that have interacted with a specific protocol or by being an active address on a blockchain. |
 | 👷 | Algorithm |  A sequence of unambigious instructions, or set of rules, used for the purpose of solving a problem. |
 | 👷 | All or None Order (AON) |  An order which one place, must either be filled completly or not at all. This prevents any partial filing of orders. |
-| ⚠️ | All-Time High (ATH) | The highest price a of a cryptocurrency or asset in a qoute currency, such as US Dollar, BTC, or ETH |
+| ⚠️ | All-Time High (ATH) | The highest price a of a cryptocurrency or asset in a qoute currency, such as US Dollar, BTC, or ETH. |
 | ⚠️ | Allocation | The portion of tokens or equity, that may be earned, purchased, or set aside for certain entities or activites. These entities can be investors, teams, organizations, or communities. |
 | ⚠️ | Alpha (software) | The first look at a product in a very basic form released by a team. Often used in software industry. |
 | ⚠️ | Alpha (finance) | The difference between a market's index (or a representative benchmark) and an investment's return. Used to assess the performance of an investment in an active strategy. |
+| ⚠️ | Altcoin | Used to describe a cryptocurrency that is not Bitcoin. |
+| ⚠️ | Anti Money Laundering (AML) | The legal and regulatory procedures designed to prevent criminals from disguising illegally generated funds as legitimate income.  |
+| ⚠️ | Application Programming Interface (API) | An abstracted interface that allows users to interact with an application or service programmatically. |
+| ⚠️ | Application-Specific Integrated Circut (ASIC) | A customized integrated circuit (aka chip) designed for maximum performance in a specific area instead of general computation. Usually used to create customized mining equipment for Bitcoin or other cryptocurrency networks to maximize rewards through increased hash power.  |
+| ⚠️ | Arbitrage | Buying and selling an asset in different markets to profit from the price difference. Buy low in one market, sell at a higher price in another. |
+| ⚠️ | ASIC-resistant | A cryptocurrency whose procotol mining algorithm is configured to remove any advantage from using ASIC machines when compared to GPU mining. Usually works by inflating the information in RAM taking advantage of the narrow link between memory and CPU. An example can be seen with Monero or Ethereum. |
 | ⚠️ | Atomic Swap | TBD |
 
 ### [B](##table)
