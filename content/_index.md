@@ -11,3 +11,7 @@ draft: true
 An Open Source Curriculum to learn about Ethereum Development.
 
 **Purpose:** Provide the best and easiest to use open source materials to learn Ethereum development in-depth.
+
+{{% notice info %}}
+Currently a work in progress site.
+{{% /notice %}}
