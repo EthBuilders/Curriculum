@@ -64,7 +64,27 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
+| ⚠️ | Bag | A portfolio assets, usually cryptocurrency tokens. |
+| ⚠️ | Bear Market | TBD |
+| ⚠️ | Benchmark | TBD |
+| ⚠️ | Beta coefficient | TBD |
+| ⚠️ | Beta (software) | TBD |
+| ⚠️ | Bid price | TBD |
+| ⚠️ | Bid-ask spread | TBD |
+| ⚠️ | Bitcoin | TBD |
+| ⚠️ | Bitcoin core | TBD |
+| ⚠️ | Bitcoin dominance | TBD |
+| ⚠️ | Black swan | TBD |
+| ⚠️ | Block explorer | TBD |
+| ⚠️ | Block Header | TBD |
+| ⚠️ | Block Height | TBD |
+| ⚠️ | Block Reward | TBD |
+| ⚠️ | Bounty | TBD |
+| ⚠️ | BUIDL | TBD |
+| ⚠️ | Bull Market | TBD |
 | ⚠️ | Blockchain | TBD |
+
+| ⚠️ | BIP | TBD |
 
 ### [C](##table)
 
