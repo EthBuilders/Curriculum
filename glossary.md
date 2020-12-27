@@ -83,7 +83,6 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | BUIDL | TBD |
 | ⚠️ | Bull Market | TBD |
 | ⚠️ | Blockchain | TBD |
-
 | ⚠️ | BIP | TBD |
 
 ### [C](##table)
