@@ -151,26 +151,57 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | ERC-1569 | TBD |
 | ⚠️ | Exchange  | TBD |
 
-
 ### [F](##tables)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Fakeout | TBD |
+| ⚠️ | Falling Knife | TBD |
+| ⚠️ | Fear of Missing Out (FOMO) | TBD |
+| ⚠️ | Fear, Uncertainty and Doubt (FUD) | TBD |
+| ⚠️ | FUDDING | Creating rear, Uncertainty and doubt |
+| ⚠️ | Fiat | |
+| ⚠️ | Filecoin | |
+| ⚠️ | Finality | |
+| ⚠️ | First Mover Advantage | |
+| ⚠️ | Fiscal Policy | |
+| ⚠️ | Flippening | |
+| ⚠️ | Forced Liquidation | |
+| ⚠️ | Forex (FX) | |
+| ⚠️ | Forced liquidation | |
+| ⚠️ | Formal Verification | |
+| ⚠️ | Full Node | |
+| ⚠️ | Fundamental Analysis | |
+| ⚠️ | Fungibility | |
+| ⚠️ | Futures Contract | |
 
 ### [G](##tables)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Gas | TBD |
+| ⚠️ | Gas Limit | TBD |
+| ⚠️ | General Public License (GPL) | TBD |
+| ⚠️ | Genesis Block | TBD |
+| ⚠️ | Git | TBD |
+| ⚠️ | GitHub | TBD |
+| ⚠️ | Gossip Protocol | TBD |
+| ⚠️ | Gwei | TBD |
 
 ### [H](##tables)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
+| ⚠️ | Hacker | TBD |
+| ⚠️ | Haha Money Printer Go BRRRRRR | A meme circulating in 2020 is making fun of the United States Federal Reserves policy of quantitative easing, aka printing money out of thin air. |
+| ⚠️ | Halving |  |
+| ⚠️ | Hard Cap |  |
 | 👷 | Hash | The output produced by a hash function. Also known as a digest, hash value, or hash code |
 | 👷 | Hash function | Any function used to map data of an arbitrary size to fixed-size value. Usually, it is deterministic, one way and returns a hexidecimal number output. |
 | 👷 | Hash Rate | The speed at which a computer or mining hardware calculates new hashes. Measured in hashes per second. |
+| ⚠️ | Hashed TimeLock Contract | |
+| ⚠️ | HODL | Hold on for dear life. Originally a typo of 'HOLD' originating from bitcointalk forum urge users to retain bitcoin ownership and not sell. |
+| ⚠️ | Honeypot |  |
 
 ### [I](##tables)
 
