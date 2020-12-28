@@ -155,11 +155,11 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ | Fakeout | TBD |
-| ⚠️ | Falling Knife | TBD |
-| ⚠️ | Fear of Missing Out (FOMO) | TBD |
-| ⚠️ | Fear, Uncertainty and Doubt (FUD) | TBD |
-| ⚠️ | FUDDING | Creating rear, Uncertainty and doubt |
+| ⚠️ | Fakeout | |
+| ⚠️ | Falling Knife |  |
+| ⚠️ | Fear of Missing Out (FOMO) |  |
+| ⚠️ | Fear, Uncertainty and Doubt (FUD) |  |
+| ⚠️ | FUDDING | Creating fear, uncertainty and doubt |
 | ⚠️ | Fiat | |
 | ⚠️ | Filecoin | |
 | ⚠️ | Finality | |
@@ -207,7 +207,18 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Iceberg Order | A single large order that has been split into smaller limit orders to conceal the actual order quantity. Usually done through the use of an automated program. |
+| ⚠️ | Immutability |  |
+| ⚠️ | Index |  |
+| ⚠️ | Initial Coin Offering (ICO) |  |
+| ⚠️ | Initial Exchange Offering (IEO) |  |
+| ⚠️ | Initial Public Offering (IPO) |  |
+| ⚠️ | Integrated Circuit |  |
+| ⚠️ | Interoperability |  |
+| ⚠️ | InterPlanetary File System (IPFS) |  |
+| ⚠️ | IOU |  |
+| ⚠️ | Isolated Margin |  |
+| ⚠️ | Issuance |  |
 
 ### [J](##tables)
 
