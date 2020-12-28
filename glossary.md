@@ -118,6 +118,22 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
+| ⚠️ | Daemon | TBD |
+| ⚠️ | DAI | TBD |
+| ⚠️ | Dead Cat Bounce | TBD |
+| ⚠️ | Decentralized Application (DApp) | TBD |
+| ⚠️ | Decentralized Autonomous Organization (DAO) | TBD |
+| ⚠️ | Decentralized Exchange (DEX) | TBD |
+| ⚠️ | Decentralized Finance (DeFi) | TBD |
+| ⚠️ | Decryption | TBD |
+| ⚠️ | Deep Web | TBD |
+| ⚠️ | Design Flaw Attack | TBD |
+| ⚠️ | Design Thinking | TBD |
+| ⚠️ | Difficulty | TBD |
+| ⚠️ | Difficulty Bomb | TBD |
+| ⚠️ | Diversification | TBD |
+| ⚠️ | Dollar Cost Averaging | TBD |
+| ⚠️ | Double Spending | TBD |
 | ⚠️ | Distributed ledger technology | TBD |
 
 ### [E](##table)
