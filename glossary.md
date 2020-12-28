@@ -257,6 +257,25 @@ Helpful emojis to let you know status of each section.
 | Legend | Term | Description |
 | ------ | ------ |------ |
 | ⚠️ |  | TBD |
+| ⚠️ | Mainnet | TBD |
+| ⚠️ | Mainnet Swap | TBD |
+| ⚠️ | Maker | TBD |
+| ⚠️ | Malware | TBD |
+| ⚠️ | Margin Trading | TBD |
+| ⚠️ | Market Capitalization | TBD |
+| ⚠️ | Market Momentum | TBD |
+| ⚠️ | Market Order | TBD |
+| ⚠️ | Masternode | TBD |
+| ⚠️ | Maximum Supply | TBD |
+| ⚠️ | Mempool | TBD |
+| ⚠️ | Merged Mining | TBD |
+| ⚠️ | Merkle Tree | TBD |
+| ⚠️ | Metadata | TBD |
+| ⚠️ | Mining | TBD |
+| ⚠️ | Mining Farm | TBD |
+| ⚠️ | Monetary Policy | TBD |
+| ⚠️ | Moon | TBD |
+| ⚠️ | Multisignature | TBD |
 
 ### [N](##tables)
 
