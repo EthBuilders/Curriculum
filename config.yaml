@@ -3,7 +3,6 @@
 
 # Hostname (and path) to the root, e.g. https://bep.is/
 baseURL: "https://EthBuilders.github.io/Curriculum/"
-https://github.com/EthBuilders
 # The site’s language code. It is used in the default RSS template and can be useful for multi-lingual sites.
 languageCode: en-US
 # Content without language indicator will default to this language.
