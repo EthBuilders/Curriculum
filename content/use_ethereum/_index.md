@@ -1,3 +1,13 @@
+---
+title: "Use Ethereum"
+date: 2020-12-28T00:50:00-05:00
+weight: 4
+chapter: true
+pre: "<b>X. </b>"
+---
+
+### Chapter X
+
 # Use Ethereum
 
 **Purpose:** Provide the best and easiest to use open source materials to learn how to use Ethereum in-depth.
