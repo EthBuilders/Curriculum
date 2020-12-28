@@ -390,12 +390,14 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | User Interface (UI) | TBD |
 | ⚠️ | Unspent Transaction Output (UTXO) | TBD |
 
-
 ### [V](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Venture Capital | TBD |
+| ⚠️ | Virtual Machine | TBD |
+| ⚠️ | Volatility | TBD |
+| ⚠️ | Volume | TBD |
 
 ### [W](##table)
 
