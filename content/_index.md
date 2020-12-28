@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2020-12-27T18:21:09-05:00
-draft: true
+draft: false
 ---
 
 # Ethereum Developer Curriculum
