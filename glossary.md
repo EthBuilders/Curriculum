@@ -281,25 +281,47 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Node  | TBD |
+| ⚠️ | Non-fungible Token (NFT)  | TBD |
+| ⚠️ | Nonce  | TBD |
 
 ### [O](##tables)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Off-chain | TBD |
+| ⚠️ | Offshore Account | TBD |
+| ⚠️ | One cancels the Other Order | TBD |
+| ⚠️ | Open-Source Software (OSS) | TBD |
+| ⚠️ | Oracle | TBD |
+| ⚠️ | Order Book | TBD |
+| ⚠️ | Orphan Block | TBD |
 
 ### [P](##tables)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Paper Wallet | TBD |
+| ⚠️ | Passive Management | TBD |
+| ⚠️ | Peer-to-Peer (P2P) | TBD |
+| ⚠️ | Pegged Currency | TBD |
+| ⚠️ | Phishing | TBD |
+| ⚠️ | Plasma | TBD |
+| ⚠️ | Ponzi Scheme | TBD |
+| ⚠️ | Price Action | TBD |
+| ⚠️ | Prisoner's Dilemma | TBD |
+| ⚠️ | Private Key | TBD |
+| ⚠️ | Private Sale | TBD |
+| ⚠️ | Progressive Web Application (PWA) | TBD |
+| ⚠️ | Pseudorandom | TBD |
+| ⚠️ | Public Key| TBD |
 
 ### [Q](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Quadratic Voting | TBD |
+| ⚠️ | Quantum Computing | TBD |
 
 ### [R](##table)
 
