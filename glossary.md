@@ -403,19 +403,32 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Wallet | TBD |
+| ⚠️ | Weak Hands | TBD |
+| ⚠️ | Weak Subjectivity | TBD |
+| ⚠️ | Web 1.0 | TBD |
+| ⚠️ | Web 2.0 | TBD |
+| ⚠️ | Web 3.0 | TBD |
+| ⚠️ | Wei | TBD |
+| ⚠️ | Whale | TBD |
+| ⚠️ | Whiskers | TBD |
+| ⚠️ | Whitelist | TBD |
+| ⚠️ | Wrapped Ether (WETH) | TBD |
+| ⚠️ | Wick (Technical Analysis) | TBD |
 
 ### [X](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | XML (Extensible Markup Language) | TBD |
 
 ### [Y](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Yearn Finance | TBD |
+| ⚠️ | Yield | TBD |
+| ⚠️ | Yield Farming | TBD |
 
 ### [Z](##table)
 
