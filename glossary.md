@@ -224,12 +224,18 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | J-Curve | TBD |
+| ⚠️ | J-Curve Effect | TBD |
+| ⚠️ | Joint Stock Company | TBD |
+| ⚠️ | Junk Bond | TBD |
+| ⚠️ | Just In Time (JIT) | TBD |
 
 ### [K](##tables)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
+| ⚠️ | Keccak | TBD |
+| ⚠️ | Know Your Customer (KYC) | TBD |
 | ⚠️ |  | TBD |
 
 ### [L](##tables)
