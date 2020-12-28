@@ -434,10 +434,11 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Zero-Knowledge Proofs | TBD |
+| ⚠️ | ZK-Snarks | TBD |
 
 ### [Special Symbols](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ | !  | TBD |
+| ⚠️ | ! | TBD |
