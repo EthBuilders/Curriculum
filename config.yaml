@@ -73,6 +73,10 @@ menu:
       identifier: ds
       url: "https://github.com/EthBuilders/Curriculum"
       weight: 10
+    - name: <i class="fab fa-fw fa-meetup"></i> Meetup
+      identifier: meetup
+      url: "https://www.meetup.com/ethbuilders/"
+      weight: 11
 # Example for structuring multiple lanugage support
 # More info: https://learn.netlify.app/en/cont/menushortcuts/ & https://learn.netlify.app/en/cont/i18n/
 # Languages:
