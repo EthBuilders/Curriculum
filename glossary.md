@@ -327,13 +327,43 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Race attack | TBD |
+| ⚠️ | Ransomware | TBD |
+| ⚠️ | Rekt | TBD |
+| ⚠️ | Resistance | TBD |
+| ⚠️ | Return on Investment (ROI) | TBD |
+| ⚠️ | RoadMap | TBD |
+| ⚠️ | Routing Attack | TBD |
 
 ### [S](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | SAI | TBD |
+| ⚠️ | Satoshi | TBD |
+| ⚠️ | Satoshi Nakamoto | TBD |
+| ⚠️ | Secure Asset Fund for Users (SAFU) | TBD |
+| ⚠️ | Securities and Exchange Commission (SEC) | TBD |
+| ⚠️ | Security Audit | TBD |
+| ⚠️ | Seed Phrase | TBD |
+| ⚠️ | Segregated Witness (SegWit) | TBD |
+| ⚠️ | Selfish Mining | TBD |
+| ⚠️ | Sell Wall | TBD |
+| ⚠️ | Sentiment | TBD |
+| ⚠️ | Sharpe Ratio | TBD |
+| ⚠️ | Smart Contract | TBD |
+| ⚠️ | Snapshot | TBD |
+| ⚠️ | Snapshot (Tool) | TBD |
+| ⚠️ | Source Code | TBD |
+| ⚠️ | Stablecoin | TBD |
+| ⚠️ | Staking | TBD |
+| ⚠️ | Staking Pool | TBD |
+| ⚠️ | State Channel | TBD |
+| ⚠️ | Store of Value | TBD |
+| ⚠️ | Supply Chain | TBD |
+| ⚠️ | Support (Technical Analysis) | TBD |
+
+
 
 ### [T](##table)
 
