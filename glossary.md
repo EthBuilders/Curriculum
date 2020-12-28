@@ -84,7 +84,12 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Block Reward | TBD |
 | ⚠️ | Black swan | TBD |
 | ⚠️ | Bond | TBD |
+| ⚠️ | Bot | TBD |
 | ⚠️ | Bounty | TBD |
+| ⚠️ | Brute Force Attack | TBD |
+| ⚠️ | BTD/BTFD (Buy the Fu@*ing Dip) | TBD |
+| ⚠️ | Bull Market | TBD |
+| ⚠️ | Bull Trap | TBD |
 | ⚠️ | BUIDL | TBD |
 | ⚠️ | Bull Market | TBD |
 
@@ -92,27 +97,37 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
+| ⚠️ | Candlestick Chart (Technical Analysis) | TBD |
 | ⚠️ | Candidate Block | TBD |
 | ⚠️ | Capitulation | TBD |
+| ⚠️ | Central Bank Digital Currency (CBDC) | TBD |
 | ⚠️ | Censorship-resistance | TBD |
 | ⚠️ | Centralization | TBD |
 | ⚠️ | Central Bank | TBD |
 | ⚠️ | Central Processing Unit | TBD |
 | ⚠️ | Centralized | TBD |
 | ⚠️ | Cipher| TBD |
-| ⚠️ | Cypherpunks | An online internet movement started in the late 1980s, which advocated the widespread use of strong cryptography and privacy-enhancing technologies to aid in social and political change. Achievement of its members includes the creation of SSL, BitTorrent, Bitcoin, smart contracts and more. Also a sub-genre within science fiction. |
 | ⚠️ | Circulating Supply | TBD |
 | ⚠️ | Cloud| TBD |
 | ⚠️ | Coin | TBD |
 | ⚠️ | Coinbase (Bitcoin) |  The transaction that rewards a miner with the block reward and any transaction fees for their work on the Bitcoin network. |
 | ⚠️ | Colocation | TBD |
+| ⚠️ | Collateral | TBD |
 | ⚠️ | Commodity Futures Trading Commission | TBD |
+| ⚠️ | Commit | TBD |
 | ⚠️ | Confluence | TBD |
+| ⚠️ | Confirmation | TBD |
 | ⚠️ | Consumer Price Index (CPI) | TBD |
+| ⚠️ | Consensus | TBD |
+| ⚠️ | Contract Address | TBD |
 | ⚠️ | Commodity Futures Trading Commission | TBD |
 | ⚠️ | Credentials | TBD |
+| ⚠️ | Cold Wallet | TBD |
+| ⚠️ | Correction | TBD |
 | ⚠️ | Cryptocurrency | TBD |
 | ⚠️ | Cryptography | TBD |
+| ⚠️ | Crypto Twitter | TBD |
+| ⚠️ | Cypherpunks | An online internet movement started in the late 1980s, which advocated the widespread use of strong cryptography and privacy-enhancing technologies to aid in social and political change. Achievement of its members includes the creation of SSL, BitTorrent, Bitcoin, smart contracts and more. Also a sub-genre within science fiction. |
 | ⚠️ | Custody | TBD |
 
 ### [D](##table)
