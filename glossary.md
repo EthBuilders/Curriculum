@@ -140,7 +140,16 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
+| ⚠️ | Efficient Market Hypothesis  | TBD |
+| ⚠️ | Elliptic Curve Cryptography  | TBD |
 | ⚠️ | Ethereum  | TBD |
+| ⚠️ | Ethereum Enterprise Alliance (EEA)  | TBD |
+| ⚠️ | Ethereum Foundation | TBD |
+| ⚠️ | ERC-20 | TBD |
+| ⚠️ | ERC-721 | TBD |
+| ⚠️ | ERC-1569 | TBD |
+| ⚠️ | Exchange  | TBD |
+
 
 ### [F](##tables)
 
