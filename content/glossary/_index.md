@@ -1,3 +1,10 @@
+---
+title: "Glossary"
+date: 2020-12-28T00:43:26-05:00
+weight: 100
+chapter: true
+---
+
 # Glossary 📖
 
 A glossary for common terms in Ethereum and cryptocurrencies.
