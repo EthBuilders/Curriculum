@@ -2,7 +2,8 @@
 # More info: https://gohugo.io/getting-started/configuration/
 
 # Hostname (and path) to the root, e.g. https://bep.is/
-baseURL: "https://skellet0r.github.io/Curriculum/"
+baseURL: "https://EthBuilders.github.io/Curriculum/"
+https://github.com/EthBuilders
 # The site’s language code. It is used in the default RSS template and can be useful for multi-lingual sites.
 languageCode: en-US
 # Content without language indicator will default to this language.
@@ -56,7 +57,7 @@ params:
   #   - css/bar.css
   # Change the title separator. Default to "::".
   titleSeparator: "-"
-  landingPageURL: "https://skellet0r.github.io/Curriculum/"
+  landingPageURL: "https://EthBuilders.github.io/Curriculum/"
 # The hugo-theme-learn uses the last improvement available in hugo version 20+ to generate a json index file ready to be consumed by lunr.js javascript search engine.
 # Lunr.js is a small, full-text search library for use in the browser. It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
 # https://lunrjs.com/
