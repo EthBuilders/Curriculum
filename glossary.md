@@ -83,6 +83,7 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Block Height | TBD |
 | ⚠️ | Block Reward | TBD |
 | ⚠️ | Black swan | TBD |
+| ⚠️ | Bond | TBD |
 | ⚠️ | Bounty | TBD |
 | ⚠️ | BUIDL | TBD |
 | ⚠️ | Bull Market | TBD |
