@@ -119,16 +119,16 @@ This represents a standard way that many open source projects operate, and more 
 
 > **Pro tip:** If you prefer to [use SSH on Github](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh), remember to update the links above to the SSH versions!
 
-1. [Create and checkout new branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) in your local project to start making changes.
+5. [Create and checkout new branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) in your local project to start making changes.
    e.g. `git checkout -b <branch-name>`
    _Note: the `-b` is only required when first creating the branch (combines `git checkout` and `git branch`)_
-2. If working on the section specifically, review the documentation before adding any changes you intend to make.
-3. Make changes in your local project, including adding files or updating existing code.
-4. Add the changed files and create a commit message describing the changes.
+6. If working on the section specifically, review the documentation before adding any changes you intend to make.
+7. Make changes in your local project, including adding files or updating existing code.
+8. Add the changed files and create a commit message describing the changes.
    e.g. `git add README.md` or `git add -A` for all changed files
    e.g. `git commit -m "update table of contents in readme"`
    _Note: more information on [writing a good commit message](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) can be found in the linked article_
-5. Continue with 6 and 7 above until all changes are complete.
+9. Continue with 6 and 7 above until all changes are complete.
 
 **When the changes are complete and you are ready to submit them to our project**, please follow the additional steps below.
 
