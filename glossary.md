@@ -91,13 +91,34 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
+| ⚠️ | Candidate Block | TBD |
+| ⚠️ | Capitulation | TBD |
+| ⚠️ | Censorship-resistance | TBD |
+| ⚠️ | Centralization | TBD |
+| ⚠️ | Central Bank | TBD |
+| ⚠️ | Central Processing Unit | TBD |
+| ⚠️ | Centralized | TBD |
+| ⚠️ | Cipher| TBD |
+| ⚠️ | Cypherpunks | An online internet movement started in the late 1980s, which advocated the widespread use of strong cryptography and privacy-enhancing technologies to aid in social and political change. Achievement of its members includes the creation of SSL, BitTorrent, Bitcoin, smart contracts and more. Also a sub-genre within science fiction. |
+| ⚠️ | Circulating Supply | TBD |
+| ⚠️ | Cloud| TBD |
+| ⚠️ | Coin | TBD |
+| ⚠️ | Coinbase (Bitcoin) |  The transaction that rewards a miner with the block reward and any transaction fees for their work on the Bitcoin network. |
+| ⚠️ | Colocation | TBD |
+| ⚠️ | Commodity Futures Trading Commission | TBD |
+| ⚠️ | Confluence | TBD |
+| ⚠️ | Consumer Price Index (CPI) | TBD |
+| ⚠️ | Commodity Futures Trading Commission | TBD |
+| ⚠️ | Credentials | TBD |
+| ⚠️ | Cryptocurrency | TBD |
 | ⚠️ | Cryptography | TBD |
+| ⚠️ | Custody | TBD |
 
 ### [D](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ | distributed ledger technology | TBD |
+| ⚠️ | Distributed ledger technology | TBD |
 
 ### [E](##table)
 
