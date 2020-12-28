@@ -28,4 +28,4 @@ Learn how to interact with the protocols and tools built on Ethereum as a user.
 |⚠️| [Setup Security Best Practices](setup_security_best_practices.md) |Learn security tips to responsibly manage your crypto|
 |⚠️| [MetaMask Setup](metaMask_setup.md) |Set up your MetaMask|
 |⚠️| [MetaMask Best Practices](metamask_best_practices.md) |Make your first transaction and learn best practices|
-|⚠️| [Interacting with Protcols](interacting_with_protcols.md) |Quick Walkthrough with some protocols|
+|⚠️| [Interacting with Protocols](interacting_with_protcols.md) |Quick Walkthrough with some protocols|
