@@ -363,13 +363,23 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Supply Chain | TBD |
 | ⚠️ | Support (Technical Analysis) | TBD |
 
-
-
 ### [T](##table)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Taker | TBD |
+| ⚠️ | Tank | TBD |
+| ⚠️ | Ticker | TBD |
+| ⚠️ | Token | TBD |
+| ⚠️ | Token Lockup | TBD |
+| ⚠️ | Token Sale | TBD |
+| ⚠️ | Total Supply | TBD |
+| ⚠️ | Transaction ID (TXID) | TBD |
+| ⚠️ | Transaction Hash | TBD |
+| ⚠️ | Transaction Hash | TBD |
+| ⚠️ | Transactions Per Section (TPS) | TBD |
+| ⚠️ | Trustless | TBD |
+| ⚠️ | Turing Complete | TBD |
 
 ### [U](##table)
 
