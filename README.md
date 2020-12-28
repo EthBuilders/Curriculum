@@ -12,6 +12,10 @@ An Open Source Curriculum to learn about Ethereum Development
 📈 [Learn about Finance and Economics](./finance_and_economics.md) \
 👀 [Glossary of terms](glossary.md) <- A great place to submit your first pull request. Lots of terms to define.
 
+Want to contribute? 
+
+See our [contributing.md](contributing.md).
+
 ## Legend
 
 Helpful emojis to let you know status of each section
