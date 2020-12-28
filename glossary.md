@@ -385,7 +385,11 @@ Helpful emojis to let you know status of each section.
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Unit of Account | TBD |
+| ⚠️ | User Experience (UX) | TBD |
+| ⚠️ | User Interface (UI) | TBD |
+| ⚠️ | Unspent Transaction Output (UTXO) | TBD |
+
 
 ### [V](##table)
 
