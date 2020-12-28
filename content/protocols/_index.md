@@ -1,10 +1,14 @@
+---
+title: "Protocols"
+date: 2020-12-28T00:57:18-05:00
+weight: 3
+chapter: true
+pre: "<b>X. </b>"
+---
+
+### Chapter X
+
 # Protocols
-
-**Purpose:** Provide the best and easiest to use open source materials to learn the most common DeFi Protocols in-depth.
-
-We will provide an overview from the user and developer perspectives.
-
-**Goal:** Have 80% of the "DeFi" by the end of March 2021.
 
 ## Legend
 
