@@ -1,3 +1,13 @@
+---
+title: "Finance and Economics"
+date: 2020-12-28T00:46:45-05:00
+weight: 5
+chapter: true
+pre: "<b>X. </b>"
+---
+
+### Chapter X
+
 # Finance and Economics
 
 Learn the basics of finance and economics.
