@@ -236,13 +236,21 @@ Helpful emojis to let you know status of each section.
 | ------ | ------ |------ |
 | ⚠️ | Keccak | TBD |
 | ⚠️ | Know Your Customer (KYC) | TBD |
-| ⚠️ |  | TBD |
 
 ### [L](##tables)
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ |  | TBD |
+| ⚠️ | Latency | TBD |
+| ⚠️ | Law of Demand | TBD |
+| ⚠️ | Law of Supply | TBD |
+| ⚠️ | Layer 2 | TBD |
+| ⚠️ | Ledger | TBD |
+| ⚠️ | Library | TBD |
+| ⚠️ | Lightning Network | TBD |
+| ⚠️ | Linux | TBD |
+| ⚠️ | Liquidity | TBD |
+| ⚠️ | Listing | TBD |
 
 ### [M](##tables)
 
