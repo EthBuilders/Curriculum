@@ -364,6 +364,7 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | SAI | TBD |
 | ⚠️ | Satoshi | TBD |
 | ⚠️ | Satoshi Nakamoto | TBD |
+| ⚠️ | Scribble | Scribble transforms existing contracts into contracts with equivalent behaviour, except that they also check properties. With these instrumented contracts, you can use testing, fuzzing or symbolic execution to check if your properties can be violated. |
 | ⚠️ | Secure Asset Fund for Users (SAFU) | TBD |
 | ⚠️ | Securities and Exchange Commission (SEC) | TBD |
 | ⚠️ | Security Audit | TBD |
