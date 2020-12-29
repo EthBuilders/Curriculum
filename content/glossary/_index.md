@@ -87,8 +87,8 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Blockchain | TBD |
 | ⚠️ | Block explorer | TBD |
 | ⚠️ | Block Header | TBD |
-| ⚠️ | Block Height | TBD |
-| ⚠️ | Block Reward | TBD |
+| ⚠️ | Block Height | Number of blocks that have been currently mined since genesis |
+| ⚠️ | Block Reward | Amount of token reward miners get per block successfully mined |
 | ⚠️ | Black swan | TBD |
 | ⚠️ | Bond | TBD |
 | ⚠️ | Bot | TBD |
@@ -129,7 +129,7 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Contract Address | TBD |
 | ⚠️ | Commodity Futures Trading Commission | TBD |
 | ⚠️ | Credentials | TBD |
-| ⚠️ | Cold Wallet | TBD |
+| ⚠️ | Cold Wallet | Wallet kept completely offline. Similar concept to 'air-gapping' sensitive computers |
 | ⚠️ | Correction | TBD |
 | ⚠️ | Cryptocurrency | TBD |
 | ⚠️ | Cryptography | TBD |
