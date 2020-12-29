@@ -10,8 +10,15 @@
     - [Anthony A (Organizer | Developer)](#anthony-a-organizer--developer)
     - [Edward Amor (Developer)](#edward-amor-developer)
   - [Common Commands](#common-commands)
+    - [Bash Terminal](#bash-terminal)
     - [Git](#git)
     - [Yarn | NPM](#yarn--npm)
+  - [Set Up Instructions](#set-up-instructions)
+    - [macOS and Linux Setup](#macos-and-linux-setup)
+    - [Windows Setup](#windows-setup)
+  - [Accesssing Command Line](#accesssing-command-line)
+    - [Via macOS](#via-macos)
+    - [Via Windows](#via-windows)
   - [General Resources and Links](#general-resources-and-links)
     - [Git / Github](#git--github)
 
@@ -32,6 +39,48 @@
 - Slack: `@Edward Amor`
 
 ## Common Commands
+
+### Bash Terminal
+
+**Information**
+Hint: The more you use these commands, the easier they will become.
+
+- print working directory - show your current absolute directory path \
+  `pwd`
+- list documents in directory  \
+  `ls`
+- list ALL including hidden ones (like .gitignore or .env)  \
+  `ls -a`
+- create a new file  \
+  `touch <FILENAME>`
+- remove file. Note: file is immediately deleted and does not go to trash bin  \
+  `rm <FILENAME>`
+- create a new directory  \
+  `mkdir <NAME>`
+- go directly to computer's root  \
+  `cd`
+- stay in same directory \
+  `cd ./`
+- go up one directory \
+  `cd ../`
+- go up two directories. Note continue to add `../` to go up 1 directory \
+  `cd ../../`
+- move file to new directory \
+  `mv <FILENAME> <NEW DIRECTORY>`
+- rename file \
+  `mv <OLD FILENAME> <NEW FILENAME>`
+
+**Bonus**
+- remove an empty directory  \
+- `rmdir <NAME>`
+- remove non-empty directory  \
+  **DO IT VIA GUI to avoid costly mistakes**
+- display file in terminal \
+  `cat <FILENAME>`
+- see the command's manual \
+  `man <COMMAND>`
+- exit program - like man or cat \
+  `q`
 
 ### Git
 
@@ -140,6 +189,31 @@
 - Upgrades packages to their latest version based on the specified range
 - [Yarn - more info](https://classic.yarnpkg.com/en/docs/cli/upgrade)
 - [npm - more info](https://docs.npmjs.com/cli/v6/commands/npm-update)
+
+## Set Up Instructions
+
+### macOS and Linux Setup
+
+The Bash based terminal already comes pre-installed with UNIX based systems like macOS and Linux, so there is nothing to set up.
+
+### Windows Setup
+
+TBD
+
+## Accesssing Command Line
+
+### Via macOS
+
+1. Hold down Spacebar + Command for Spotlight search
+2. Type `Terminal`
+3. Enter
+4. Voila!
+
+Place the terminal link where you find best to access.
+
+### Via Windows
+
+TBD
 
 ## General Resources and Links
 
