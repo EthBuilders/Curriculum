@@ -80,7 +80,7 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Beta (software) | TBD |
 | ⚠️ | Bid price | TBD |
 | ⚠️ | Bid-ask spread | TBD |
-| ⚠️ | Bitcoin | TBD |
+| ⚠️ | Bitcoin | An immutable and trustless ledger made up of a decentralized network of nodes to manage and issue a global digital currency that mimics gold's property of scarcity via a hard limit of 21 million coins. Explicitly it is used as a store of value by mimicking the properties of money. It is the first successful attempt at issuing decentralized currency, non-fiat, non-state actor currency which solves the double-spend problem.|
 | ⚠️ | Bitcoin core | TBD |
 | ⚠️ | Bitcoin dominance | TBD |
 | ⚠️ | Bitcoin Improvement Proposals (BIPS) | TBD |
