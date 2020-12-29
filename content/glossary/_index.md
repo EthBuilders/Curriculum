@@ -94,7 +94,7 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Bot | TBD |
 | ⚠️ | Bounty | TBD |
 | ⚠️ | Brute Force Attack | TBD |
-| ⚠️ | BTD/BTFD (Buy the Fu@*ing Dip) | TBD |
+| ⚠️ | BTD/BTFD (Buy the Fu@*ing Dip) | Captitalizing on the price drop of an asset because its fundamentals merits future apperciation in value.  |
 | ⚠️ | Bull Market | TBD |
 | ⚠️ | Bull Trap | TBD |
 | ⚠️ | BUIDL | TBD |
