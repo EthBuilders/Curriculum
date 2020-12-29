@@ -11,7 +11,16 @@
     - [Edward Amor (Developer)](#edward-amor-developer)
   - [Common Commands](#common-commands)
     - [Bash Terminal](#bash-terminal)
+      - [Show Directory Information](#show-directory-information)
+      - [Navigate Directories](#navigate-directories)
+      - [Manipulate Files](#manipulate-files)
+      - [Display Files](#display-files)
     - [Git](#git)
+      - [Git Information](#git-information)
+      - [Make Changes](#make-changes)
+      - [Commit Changes](#commit-changes)
+      - [Update the Repo](#update-the-repo)
+      - [Delete Branch](#delete-branch)
     - [Yarn | NPM](#yarn--npm)
   - [Set Up Instructions](#set-up-instructions)
     - [macOS and Linux Setup](#macos-and-linux-setup)
@@ -42,113 +51,107 @@
 
 ### Bash Terminal
 
-**Information**
-Hint: The more you use these commands, the easier they will become.
+#### Show Directory Information
 
-- print working directory - show your current absolute directory path \
-  `pwd`
-- list documents in directory  \
-  `ls`
-- list ALL including hidden ones (like .gitignore or .env)  \
-  `ls -a`
-- create a new file  \
-  `touch <FILENAME>`
-- remove file. Note: file is immediately deleted and does not go to trash bin  \
-  `rm <FILENAME>`
-- create a new directory  \
-  `mkdir <NAME>`
-- go directly to computer's root  \
-  `cd`
-- stay in same directory \
-  `cd ./`
-- go up one directory \
-  `cd ../`
-- go up two directories. Note continue to add `../` to go up 1 directory \
-  `cd ../../`
-- move file to new directory \
-  `mv <FILENAME> <NEW DIRECTORY>`
-- rename file \
-  `mv <OLD FILENAME> <NEW FILENAME>`
+- `pwd`  - print working directory - show your current absolute directory path
 
-**Bonus**
-- remove an empty directory  \
-- `rmdir <NAME>`
-- remove non-empty directory  \
-  **DO IT VIA GUI to avoid costly mistakes**
-- display file in terminal \
-  `cat <FILENAME>`
-- see the command's manual \
-  `man <COMMAND>`
-- exit program - like man or cat \
-  `q`
+- `ls`  - list documents in directory
+
+- `ls -a`  - list ALL including hidden ones (like .gitignore or .env)
+
+#### Navigate Directories
+
+- `cd` - go directly to computer's root
+
+- `cd ./` - stay in same directory
+
+- `cd ../` - go up one directory
+
+- `cd ../../` - go up two directories. Note continue to add `../` to go up 1 directory
+
+#### Manipulate Files
+
+- `touch <FILENAME>` - create a new file
+
+- `rm <FILENAME>` - remove file. Note: file is immediately deleted and does not go to trash bin
+
+- `mkdir <NAME>` - create a new directory
+
+- `mv <FILENAME> <NEW DIRECTORY>` - move file to new directory
+
+- `mv <OLD FILENAME> <NEW FILENAME>` - rename file
+
+- `rmdir <NAME>` - remove an empty directory
+
+- **DO IT VIA GUI to avoid costly mistakes** - remove non-empty directory
+
+#### Display Files
+
+- `cat <FILENAME>` - display file in terminal
+- `man <COMMAND>` - see the command's manual
+- `q` - exit program - like man or cat
 
 ### Git
 
-**Information**
+#### Git Information
 
-- Show the working tree status
-  `git status`
-- show the current HEAD and its ancestry
-  `git log`
-- show the current HEAD and its ancestry with formatting
-  `git log --pretty=format:"%h %s" --graph`
-- show an ordered list of the commits that HEAD has pointed to (a local undo history for your repo - [reference](https://stackoverflow.com/questions/17857723/whats-the-difference-between-git-reflog-and-log))
-  `git reflog`
-- show all branches
-  `git branch -a`
-- list remote repositories
-  `git remote -v`
-- show line-by-line changes in your branch compared to master
-  `git diff`
+- `git status` - Show the working tree status
 
-**Make Changes**
+- `git log`- show the current HEAD and its ancestry
 
-- Create new branch to make changes
-  `git checkout -b <branch>`
-- Checkout branch to make changes
-  `git checkout <branch>`
-- Change file name
-  `git mv <old-file> <new-file>`
-- Delete file
-  `git rm <file>`
+- `git log --pretty=format:"%h %s" --graph` - show the current HEAD and its ancestry with formatting
 
-**Commit Changes**
+- `git reflog`- show an ordered list of the commits that HEAD has pointed to (a local undo history for your repo - [reference](https://stackoverflow.com/questions/17857723/whats-the-difference-between-git-reflog-and-log))
 
-- Make changes to the file
-  `atom <filename>` _(or text editor of your choice)_
-- Add a single file with changes
-  `git add <filename>`
-- Add all files with changes
-  `git add -A`
-- Commit the change with a message
-  `git commit -m "Commit Message"`
-  See [CONTRIBUTING.MD](../CONTRIBUTING.MD) for style guide on how to format commits.
-- Add all files and commit the change in one command
-  `git commit -am "Commit Message"`
-- Modify last commit message
-  `git commit --amend`
-- Push change to repository (on Github)
-  `git push origin`
+- `git branch -a` - show all branches
 
-**Update the Repo**
+- `git remote -v` - list remote repositories
 
-- Setting an upstream repository
-  `git remote add upstream <clone-link>`
-- Check out the master branch
-  `git checkout master`
-- Fetch branch from the upstream repository
-  `git fetch upstream <branch>`
-- Rebase changes from the upstream repository
-  `git rebase upstream/<branch>`
-- Push changes to the origin repository
-  `git push origin`
+- `git diff`- show line-by-line changes in your branch compared to master
 
-**Delete Branch**
+#### Make Changes
 
-- Delete the branch from origin
-  `git push origin -d <branch>`
-- Delete the branch from local
-  `git branch -d <branch>`
+- `git checkout -b <branch>`- Create new branch to make changes
+
+- `git checkout <branch>`- Checkout branch to make changes
+
+- `git mv <old-file> <new-file>`- Change file name
+
+- `git rm <file>`- Delete file
+
+#### Commit Changes
+
+- `atom <filename>` _(or text editor of your choice)_ - Make changes to the file
+
+- `git add <filename>` - Add a single file with changes
+
+- `git add -A` - Add all files with changes
+
+- `git commit -m "Commit Message"` - Commit the change with a message
+
+- `git commit -am "Commit Message"` - Add all files and commit the change in one command
+
+- `git commit --amend` - Modify last commit message
+
+- `git push origin` - Push change to repository (on Github)
+
+#### Update the Repo
+
+- `git remote add upstream <clone-link>` - Setting an upstream repository
+
+- `git checkout master` - Check out the master branch
+
+- `git fetch upstream <branch>` - Fetch branch from the upstream repository
+
+- `git rebase upstream/<branch>` - Rebase changes from the upstream repository
+
+- `git push origin` - Push changes to the origin repository
+
+#### Delete Branch
+
+- `git push origin -d <branch>` - Delete the branch from origin
+
+- `git branch -d <branch>` - Delete the branch from local
 
 ### Yarn | NPM
 
