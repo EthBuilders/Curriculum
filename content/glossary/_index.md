@@ -81,7 +81,10 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Bid price | TBD |
 | ⚠️ | Bid-ask spread | TBD |
 | ⚠️ | Bitcoin | An immutable and trustless ledger made up of a decentralized network of nodes to manage and issue a global digital currency that mimics gold's property of scarcity via a hard limit of 21 million coins. Explicitly it is used as a store of value by mimicking the properties of money. It is the first successful attempt at issuing decentralized currency, non-fiat, non-state actor currency which solves the double-spend problem.|
-| ⚠️ | Bitcoin core | TBD |
+| 👷 | Bitcoin core | Bitcoin Core consists of both “full-node” software for fully validating the blockchain as well as a bitcoin wallet.
+Bitcoin Core is programmed to decide which blockchain contains a valid transaction. Users of Bitcoin Core only accept transactions for that blockchain, making it the Bitcoin blockchain that everyone else to use.
+The open-source project maintains and releases Bitcoin client software called “Bitcoin Core”; which is the descendant of the original Bitcoin software client by Satoshi Nakamoto after publishing the Bitcoin whitepaper.
+ |
 | ⚠️ | Bitcoin dominance | TBD |
 | ⚠️ | Bitcoin Improvement Proposals (BIPS) | TBD |
 | ⚠️ | Blockchain | TBD |
