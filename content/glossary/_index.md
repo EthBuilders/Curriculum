@@ -237,7 +237,8 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Initial Public Offering (IPO) |  |
 | ⚠️ | Integrated Circuit |  |
 | ⚠️ | Interoperability |  |
-| ⚠️ | InterPlanetary File System (IPFS) |  |
+| 👷 | InterPlanetary File System (IPFS) | A peer-to-peer hypermedia protocol developed as a decentralized alternative to HTTP. It allows for storage and access to data (from single files to whole websites) on a peer-to-peer network, reducing the potential for central point of failure and censorship. |
+| 👷 | InterPlanetary File System (IPFS) Gateway | A program that provides a workaround to deliver content stored on IPFS to applications that do not yet support IPFS natively. |
 | ⚠️ | IOU |  |
 | ⚠️ | Isolated Margin |  |
 | ⚠️ | Issuance |  |
