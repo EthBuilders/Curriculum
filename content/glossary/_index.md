@@ -371,7 +371,8 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Security Audit | TBD |
 | ⚠️ | Seed Phrase | TBD |
 | ⚠️ | Segregated Witness (SegWit) | TBD |
-| ⚠️ | Selfish Mining | TBD |
+| 👷 | Selfish Mining |  a miner or group of miners increases their revenue by strategically withholding and releasing blocks to the network. Typically, a miner will announce a block as soon as they find it. If the block is confirmed, they get a reward for the block.
+The goal of shelfish mining is to remain at least one block ahead of the network. Nodes accept the chain with the most accumulated proof of work as a valid blockchain. Anytime, the selfish miner can reveal their chain is longer than the one followed by the rest of the network, the existing blocks are discarded and the transaction becomes reversed. The miner then collects the reward and cause other parties to waste their resources. |
 | ⚠️ | Sell Wall | TBD |
 | ⚠️ | Sentiment | TBD |
 | ⚠️ | Sharpe Ratio | TBD |
