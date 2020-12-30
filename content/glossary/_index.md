@@ -311,7 +311,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ------ | ------ |------ |
 | ⚠️ | Node  | TBD |
 | ⚠️ | Non-fungible Token (NFT)  | TBD |
-| ⚠️ | Nonce  | TBD |
+| 👷 | Nonce  | A nonce is an abbreviation for "number only used once," which is a number added to a hashed—or encrypted—block in a blockchain that, when rehashed, meets the difficulty level restrictions. The nonce is the number that blockchain miners are trying to find. The first miner to do so receives the cryptocurrency reward. |
 
 ### [O](##tables)
 
