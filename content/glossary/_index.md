@@ -67,7 +67,8 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Atomic Swap | An smart contract that allows tokens to be traded peer-to-peer without the need for a trusted third party, usually via escrow contracts and Hash timelock contracts (HCTL). They are atomic because they either are completed or not. |
 | ⚠️ | Attack surface | Areas in a software environment where an attacker can exploit its system. Successful attacks vectors are called exploits. |
 | ⚠️ | Auction | A public sale where goods, assets or services are sold to the highest bidder through a bidding process. |
-| ⚠️ | Automated Market Maker (AMM) | TBD |
+| 👷 | Automated Market Maker (AMM) |Automated market makers are smart contracts that create a liquidity pool of ERC20 tokens, which are automatically traded by an algorithm rather than an order book. This effectively replaces a traditional limit order-book with a system where assets can be automatically swapped against the pool’s latest price.
+There are two main types of automated market makers. One may be governed and set up by professional market makers, and the other is fully automated by an algorithm, allowing any user in the market to participate by depositing liquidity into the smart contract. |
 
 ### [B](##table)
 
@@ -81,7 +82,10 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Bid price | TBD |
 | ⚠️ | Bid-ask spread | TBD |
 | ⚠️ | Bitcoin | An immutable and trustless ledger made up of a decentralized network of nodes to manage and issue a global digital currency that mimics gold's property of scarcity via a hard limit of 21 million coins. Explicitly it is used as a store of value by mimicking the properties of money. It is the first successful attempt at issuing decentralized currency, non-fiat, non-state actor currency which solves the double-spend problem.|
-| ⚠️ | Bitcoin core | TBD |
+| 👷 | Bitcoin core | Bitcoin Core consists of both “full-node” software for fully validating the blockchain as well as a bitcoin wallet.
+Bitcoin Core is programmed to decide which blockchain contains a valid transaction. Users of Bitcoin Core only accept transactions for that blockchain, making it the Bitcoin blockchain that everyone else to use.
+The open-source project maintains and releases Bitcoin client software called “Bitcoin Core”; which is the descendant of the original Bitcoin software client by Satoshi Nakamoto after publishing the Bitcoin whitepaper.
+ |
 | ⚠️ | Bitcoin dominance | TBD |
 | ⚠️ | Bitcoin Improvement Proposals (BIPS) | TBD |
 | ⚠️ | Blockchain | TBD |
