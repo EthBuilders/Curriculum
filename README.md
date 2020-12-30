@@ -32,6 +32,7 @@ Helpful emojis to let you know status of each section
 
 | Status | Topic | About |
 | ------ | ------ | ------ |
+|⚠️| [Github Setup](github_setup.md) | Set up your GitHub account to get started! |
 |⚠️| [Documentation](documentation.md) |Learn about Markdown to make immediate gains, create documents and learn to code.|
 |👷| [Front End](front_end.md) |Learn JavaScript, React, NodeJS|
 |⚠️| [Blockchain Basics](blockchain_basics.md) |Blockchain and Ethereum architecture|
@@ -43,7 +44,7 @@ Helpful emojis to let you know status of each section
 |⚠️| [Security Patterns](security_patterns.md) |Security considerations to protect against hacks|
 |⚠️| [Design Patterns](design_patterns.md) |Design patterns for smart contract development|
 
-## Learn Intermediate Development 
+## Learn Intermediate Development
 
 | Status | Topic | About |
 | ------ | ------ | ------ |
