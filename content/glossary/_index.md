@@ -95,7 +95,8 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Bounty | TBD |
 | ⚠️ | Brute Force Attack | TBD |
 | ⚠️ | BTD/BTFD (Buy the Fu@*ing Dip) | Captitalizing on the price drop of an asset because its fundamentals merits future apperciation in value.  |
-| ⚠️ | Bull Market | TBD |
+| 👷 | Bull Market | A bull market is a term that describes the condition of a financial market in which prices are rising or expected to rise. This term usually refers to the stock market, but can be applied to anything traded. Included are bonds, real estate, commodities, and cryptocurrencies.  
+Since prices continuously rise and fall during trading, the classification of "bull market" is reserved for extended amounts of time where a large portion of prices are rising.  |
 | ⚠️ | Bull Trap | TBD |
 | ⚠️ | BUIDL | TBD |
 | ⚠️ | Bull Market | TBD |
