@@ -15,6 +15,9 @@ An Open Source Curriculum to learn about Ethereum Development
 ❤️ Want to contribute? See our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.  
 💻 [Live site](https://ethbuilders.github.io/Curriculum/) - Make a contribution and see updated immediately!
 
+Need guidance on how to start? Join our [Slack](http://bit.ly/NYC-Blockchain-Devs-Join-Slack).  
+Message @Anthony_Albertorio_NEVER_ASKS_FOR_COIN
+
 ## Legend
 
 Helpful emojis to let you know status of each section
