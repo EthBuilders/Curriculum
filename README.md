@@ -12,7 +12,8 @@ An Open Source Curriculum to learn about Ethereum Development
 📈 [Learn about Finance and Economics](./content/finance_and_economics/_index.md) \
 👀 [Glossary of terms](./content/glossary/_index.md) <- A great place to submit your first pull request. Lots of terms to define.
 
-❤️ Want to contribute? See our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+❤️ Want to contribute? See our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.  
+💻 [Live site](https://ethbuilders.github.io/Curriculum/) - Make a contribution and see updated immediately!
 
 ## Legend
 
@@ -44,7 +45,7 @@ Helpful emojis to let you know status of each section
 | Status | Topic | About |
 | ------ | ------ | ------ |
 |⚠️| [Vyper](vyper.md) | Pythonic-like smart contract programming language for Ethereum |
-|⚠️| [Scribble](vyper.md) | A runtime verification tool to transform contracts to check properties for easier testing |
+|⚠️| [Scribble](scribble.md) | A runtime verification tool to transform contracts to check properties for easier testing |
 
 ## Learn how to Collaborate
 
