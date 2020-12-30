@@ -7,10 +7,10 @@ An Open Source Curriculum to learn about Ethereum Development
 **Goal:** Have 80% of the "Learn the Development Basics" by the end of March 2021.
 
 **Other sections:**\
-🦊 [Learn how to use Etheruem](./use_ethereum.md) \
-💰 [Learn about DeFi Protocols](./protocols.md) \
-📈 [Learn about Finance and Economics](./finance_and_economics.md) \
-👀 [Glossary of terms](glossary.md) <- A great place to submit your first pull request. Lots of terms to define.
+🦊 [Learn how to use Etheruem](./content/use_ethereum/_index.md) \
+💰 [Learn about DeFi Protocols](./content/protocols/_index.md) \
+📈 [Learn about Finance and Economics](./content/finance_and_economics/_index.md) \
+👀 [Glossary of terms](./content/glossary/_index.md) <- A great place to submit your first pull request. Lots of terms to define.
 
 ❤️ Want to contribute? See our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
