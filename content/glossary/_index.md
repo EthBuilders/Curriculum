@@ -82,10 +82,7 @@ There are two main types of automated market makers. One may be governed and set
 | ⚠️ | Bid price | TBD |
 | ⚠️ | Bid-ask spread | TBD |
 | ⚠️ | Bitcoin | An immutable and trustless ledger made up of a decentralized network of nodes to manage and issue a global digital currency that mimics gold's property of scarcity via a hard limit of 21 million coins. Explicitly it is used as a store of value by mimicking the properties of money. It is the first successful attempt at issuing decentralized currency, non-fiat, non-state actor currency which solves the double-spend problem.|
-| 👷 | Bitcoin core | Bitcoin Core consists of both “full-node” software for fully validating the blockchain as well as a bitcoin wallet.
-Bitcoin Core is programmed to decide which blockchain contains a valid transaction. Users of Bitcoin Core only accept transactions for that blockchain, making it the Bitcoin blockchain that everyone else to use.
-The open-source project maintains and releases Bitcoin client software called “Bitcoin Core”; which is the descendant of the original Bitcoin software client by Satoshi Nakamoto after publishing the Bitcoin whitepaper.
- |
+| 👷 | Bitcoin core | Bitcoin Core consists of both “full-node” software for fully validating the blockchain as well as a bitcoin wallet. Bitcoin Core is programmed to decide which blockchain contains a valid transaction. Users of Bitcoin Core only accept transactions for that blockchain, making it the Bitcoin blockchain that everyone else to use. The open-source project maintains and releases Bitcoin client software called “Bitcoin Core”; which is the descendant of the original Bitcoin software client by Satoshi Nakamoto after publishing the Bitcoin whitepaper. |
 | ⚠️ | Bitcoin dominance | TBD |
 | ⚠️ | Bitcoin Improvement Proposals (BIPS) | TBD |
 | ⚠️ | Blockchain | TBD |
@@ -301,6 +298,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Metadata | TBD |
 | ⚠️ | Mining | TBD |
 | ⚠️ | Mining Farm | TBD |
+| 👷 | Modern Porfolio Theory | A theory for how to construct a portfolio with investments to maximize returns and maintain a level of acceptable market risk. It assumes that a portfolio can have lower risk based on the diversification and lower correlation of the portfolio’s investments. |
 | ⚠️ | Monetary Policy | TBD |
 | ⚠️ | Moon | TBD |
 | ⚠️ | Multisignature | TBD |
@@ -375,12 +373,16 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Securities and Exchange Commission (SEC) | TBD |
 | ⚠️ | Security Audit | TBD |
 | ⚠️ | Seed Phrase | TBD |
+| 👷 | Seed round | Considered the earliest offical round of financing for a startup, in which the main sources of capital are typcially angel investors or institutions specialized in seed funding - corporate or venture capitial seed funds, accelerators, institutional crowdfunding platforms. Financing amount can typically range from $100 thousand to $5 million. Startups in seed round generally have validated a proof of concept or MVP to have a fit in the market, and have idenified the requirements (e.g., skillset, technology, partnerships) to build out the product. |
 | ⚠️ | Segregated Witness (SegWit) | TBD |
 | 👷 | Selfish Mining |  a miner or group of miners increases their revenue by strategically withholding and releasing blocks to the network. Typically, a miner will announce a block as soon as they find it. If the block is confirmed, they get a reward for the block.
 The goal of shelfish mining is to remain at least one block ahead of the network. Nodes accept the chain with the most accumulated proof of work as a valid blockchain. Anytime, the selfish miner can reveal their chain is longer than the one followed by the rest of the network, the existing blocks are discarded and the transaction becomes reversed. The miner then collects the reward and cause other parties to waste their resources. |
 | ⚠️ | Sell Wall | TBD |
 | ⚠️ | Sentiment | TBD |
-| ⚠️ | Sharpe Ratio | TBD |
+| 👷 | Series A | Financing round that occurs after a seed round and is often the first round in which venture capital investors are involved. This round can include multiple investors, in which one typically leads the process and receives a higher amount of equity/ownership level in return. Financing amount can have a large range from $10 million to even a few billion depending on the startup's offerings and industry. Startups at Series A generally have a completed product, established userbase, and revenue generation, and seek funding to support further product and/or business model development, cover costs of production or market expansion prior to becoming revenue financed. |
+| 👷 | Series B | Financing round that occurs after the Series A round and involves similar type of investors and similar process. Startups at Series B have validated the product-market fit, established business operations, and have a growing customer base. Startups in this financing round generally seek financing to scale up business operations, hire additional staff, and tackle growing competition. |
+| 👷 | Series C | Financing round that occurs after a Series B, involves venture capital firms, and is typically the last round of private equity financing, though additional rounds may occur prior to an IPO. The process takes the same form as Series B - one venture capital fund leading the process that can involve multiple other venture capital funds. Startups in this financing round are generally successful in with their current offerings and current market, and seek funding to develop new offerings, expand into new markets, or acquire new businesses. |
+| 👷 | Sharpe Ratio | A metric to understand the performance (rate of return) associated to risk of a portfolio or asset. It assumes that there is a risk free rate of return available, such as the yield for a US Treasury bond. It also assumes that volatility of rate of return (represented as a standard deviation) is equal to risk. It is calculated by subtracting the risk free rate of return from the total rate of return and dividing by the standard deviation of the expected rate of return. A lower Sharpe ratio indicates performance due to higher risk and a higher Sharpe ratio indicates performance due to lower risk. When comparing portfolios and assets, those with a higher Sharpe ratio are considered favorable as their returns come from good investment rather than high risk. |
 | ⚠️ | Smart Contract | TBD |
 | ⚠️ | Snapshot | TBD |
 | ⚠️ | Snapshot (Tool) | TBD |
@@ -424,10 +426,10 @@ The goal of shelfish mining is to remain at least one block ahead of the network
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ | Venture Capital | TBD |
+| 👷 | Venture Capital | A form of private equity financing in which institutional investors or high net worth individuals provide an investment to a entrepreneur or startup in return for some level of equity or ownership of the venture. In the blockchain space, ownership can be in the form of traditional stock & cap tables or can be in the form of token distribution models. The investment provided by the VC entity is typically monetary but can also be non-monetary such as technical or managerial support. The goal of venture capital is to provide early stage venture (i.e., high risk) with the capital necessary to build and scale in return of potential high reward.  |
 | ⚠️ | Virtual Machine | TBD |
-| ⚠️ | Volatility | TBD |
-| ⚠️ | Volume | TBD |
+| ⚠️ | Volatility | A measure of the price fluctuations or rate of return over a time period of an asset or portfolio. Modern Portfolio Theory assumes that volatility is equal to risk - higher volatily means higher risk. |
+| ⚠️ | Volume | A measure of how much an asset is exchanged over a period of time. This measurement can be in the form of the number of shares of an asset exchanged or the value of the number assets exchanged. In crypto, volume is generally presented as the value of the number of cryptocurrency assets exchanged, with value represented as either US Dollar, Bitcoin, or Ethereum. |
 
 ### [W](##table)
 
