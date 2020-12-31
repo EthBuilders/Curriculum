@@ -1,0 +1,9 @@
+---
+<!-- This is the front-matter and it is required in order for the page to get rendered on the site -->
+title: "HTML Resources"  # (required) the title of the page
+date: 2020-12-28T00:52:03-05:00  # (optional) the date the page was first created
+draft: false  # (required) boolean denoting whether the page is a draft (if this is true it will not appear on the site)
+weight: 1  # (required) the position of the page in the left nav-bar relative to sibling pages/chapters on the same level
+---
+
+Here is where some HTML videos and resources will go.
