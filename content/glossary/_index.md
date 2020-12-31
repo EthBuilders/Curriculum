@@ -101,7 +101,7 @@ The open-source project maintains and releases Bitcoin client software called �
 | ⚠️ | BTD/BTFD (Buy the Fu@*ing Dip) | Captitalizing on the price drop of an asset because its fundamentals merits future apperciation in value.  |
 | 👷 | Bull Market | A bull market is a term that describes the condition of a financial market in which prices are rising or expected to rise. This term usually refers to the stock market, but can be applied to anything traded. Included are bonds, real estate, commodities, and cryptocurrencies.  
 Since prices continuously rise and fall during trading, the classification of "bull market" is reserved for extended amounts of time where a large portion of prices are rising.  |
-| ⚠️ | Bull Trap | TBD |
+| 👷 | Bull Trap | A bull trap is a signal that proves to be false by indicating that a decreasing trend in a stock or index has reversed and is starting upward. However, the trend continues going down. Traders acting on this buy signal can be trapped and generate losses on long positions. |
 | ⚠️ | BUIDL | TBD |
 | ⚠️ | Bull Market | TBD |
 
