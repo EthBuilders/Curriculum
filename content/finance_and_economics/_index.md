@@ -111,7 +111,7 @@ Helpful emojis to let you know status of each section
 <br/>
 <br/>
 
-## Macroeconomics I 
+## Macroeconomics Fundamentals
 | Status | Topic | About |
 | ------ | ------ | ------ |
 |⚠️ | [Aggregate Demand]() | TBD |
@@ -175,14 +175,6 @@ Helpful emojis to let you know status of each section
 |⚠️ | [Gross Domestic Product (GDP)]() | TBD |
 |⚠️ | [Real Versus Nominal GDP]() | TBD |
 |⚠️ | [The Circular Flow of Income]() | TBD |
-
-<br/>
-<br/>
-
-## Financial Economics
-| Status | Topic | About |
-| ------ | ------ | ------ |
-
 
 <br/>
 <br/>
