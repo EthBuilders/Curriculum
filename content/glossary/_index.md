@@ -145,7 +145,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ------ | ------ |------ |
 | ⚠️ | Daemon | TBD |
 | ⚠️ | DAI | TBD |
-| ⚠️ | Dead Cat Bounce | TBD |
+| 👷 | Dead Cat Bounce | A short-lived recovery in the price of a declining stock.|
 | ⚠️ | Decentralized Application (DApp) | TBD |
 | 👷 | Decentralized Autonomous Organization (DAO) | DAO stands for Decentralized Autonomous Organization, a system of hard-coded rules that define actions a decentralized organization will take. DAO's are open source code operated entirely by its community. The underlying structure and working mechanisms of a DAO aren't based on any kind of hierarchical management. No single entity is in charge, nor any directory board and, no centralization of power. DAOs are conducted by smart contracts that are governed by the collective work of its contributors and community members by enabling the creation of a more efficient system reducing the need for human input, overall costs, and risk related to human behavior. Allowing for activities to be executed in a completely decentralized, automated manner is what makes a DAO useful and interesting concept.
 | ⚠️ | Decentralized Exchange (DEX) | TBD |
