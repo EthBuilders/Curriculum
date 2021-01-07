@@ -50,6 +50,7 @@ A walk through of basic projects you can learn by following along.
 | ------ | ------ | ------ |
 |⚠️| [Social tokens](social_tokens.md) | Build a fungible ERC-20 token |
 |⚠️| [Art and non fungible tokens](art_and_non_fungible_tokens.md) | Build art for hype beasts |
+|⚠️| [Crowdsale ](crowdsale.md) | Build & deploy sale contract for your ERC-20 token |
 |⚠️| [TBD]() | To be determined - open an issue or pull request |
 
 ## Learn the Protocols
