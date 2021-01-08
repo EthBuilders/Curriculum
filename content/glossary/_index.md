@@ -259,7 +259,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ | Keccak | TBD |
+| 👷 | Keccak | is a versatile cryptographic function known as a hash function, it's also used for authentication, (authenticated) encryption and pseudo-random number generation. Its structure is the extremely simple sponge construction and internally it uses the innovative Keccak-f cryptographic permutation. |
 | ⚠️ | Know Your Customer (KYC) | TBD |
 
 ### [L](##tables)
