@@ -158,7 +158,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Difficulty Bomb | TBD |
 | ⚠️ | Diversification | TBD |
 | ⚠️ | Dollar Cost Averaging | TBD |
-| ⚠️ | Double Spending | TBD |
+| 👷 | Double Spending | One of the primary concerns of any cryptocurrency developer is the issue of double-spending.This refers to the incidence of an individual spending a balance of that cryptocurrency more than once, effectively creating a disparity between the spending record and the amount of that cryptocurrency available, as well as the way that it is distributed.The issue of double-spending is a problem that cash does not have; A technical issue that arises with the notion of a digital currency is the ability for somebody to duplicate the digital money and spend it simultaneously at two or more places.This 'double-spend' problem is prevented in blockchain-based cryptocurrencies such as Bitcoin by using a consensus mechanism known as proof-of-work (PoW).|
 | ⚠️ | Distributed ledger technology | TBD |
 
 ### [E](##table)
