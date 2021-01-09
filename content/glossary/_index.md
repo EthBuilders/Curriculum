@@ -128,10 +128,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Confirmation | TBD |
 | ⚠️ | Consumer Price Index (CPI) | TBD |
 | ⚠️ | Consensus | TBD |
-| ⚠️ | Contract Address | A contract is a collection of code and data that resides at a specific address on the Ethereum blockchain. Contracts live on the blockchain in an Ethereum-specific binary format called Ethereum Virtual Machine (EVM) bytecode.
-
-Ethereum contract address is the address of the place where your ETH is preserved. It is a hexadecimal notion of your public key which always starts with '0x'. You have a home address that depicts your presence at a particular location.
--- Aaron Shefild |
+| ⚠️ | Contract Address | A contract is a collection of code and data that resides at a specific address on the Ethereum blockchain. Contracts live on the blockchain in an Ethereum-specific binary format called Ethereum Virtual Machine (EVM) bytecode. Ethereum contract address is the address of the place where your ETH is preserved. It is a hexadecimal notion of your public key which always starts with '0x'. You have a home address that depicts your presence at a particular location. -- Aaron Shefild |
 | ⚠️ | Commodity Futures Trading Commission | TBD |
 | ⚠️ | Credentials | TBD |
 | ⚠️ | Cold Wallet | Wallet kept completely offline. Similar concept to 'air-gapping' sensitive computers |
