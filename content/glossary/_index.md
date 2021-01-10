@@ -210,8 +210,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Git | TBD |
 | ⚠️ | GitHub | TBD |
 | ⚠️ | Gossip Protocol | TBD |
-| 👷 | Gwei | Ether is a currency for the Ethereum network, which is broken into many denominations. The smallest unit of ether is called Wei. 10^9 Wei is a gwei. Gwei is used when talking about gas, a network transaction fee. So instead of saying that the gas cost is 0.000000001 of ether, you say it's 1 Gwei. Whether starting at Wei going up or starting at ether and going down the denomination follow standard metric prefixes. The majority of transactions will use ether or gwei.
-Each denomination has its own slang. Nicknames of influential figures from the world of cryptography. <SHANNON> GWEI Claude Shannon. Father of Information Theory, codebreaker, and crypto-analysis guru. |
+| 👷 | Gwei | Ether is a currency for the Ethereum network, which is broken into many denominations. The smallest unit of ether is called Wei. 10^9 Wei is a gwei. Gwei is used when talking about gas, a network transaction fee. So instead of saying that the gas cost is 0.000000001 of ether, you say it's 1 Gwei. Whether starting at Wei going up or starting at ether and going down the denomination follow standard metric prefixes. The majority of transactions will use ether or gwei. Each denomination has its own slang. Nicknames of influential figures from the world of cryptography. <SHANNON> GWEI Claude Shannon. Father of Information Theory, codebreaker, and crypto-analysis guru. |
 
 ### [H](##tables)
 
