@@ -206,7 +206,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Gas | TBD |
 | ⚠️ | Gas Limit | TBD |
 | ⚠️ | General Public License (GPL) | TBD |
-| ⚠️ | Genesis Block | TBD |
+| 👷 | Genesis Block | Genesis Block is the name given to the first block of Bitcoin ever mined. It is the foundation and prototype of the rest of the blocks on the blockchain. Fans of Bitcoin donate small amounts of the cryptocurrency to the Genesis Block as a tribute. It is unable to be moved once it is in the Genesis Block. |
 | ⚠️ | Git | TBD |
 | ⚠️ | GitHub | TBD |
 | ⚠️ | Gossip Protocol | TBD |
