@@ -204,7 +204,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | Legend | Term | Description |
 | ------ | ------ |------ |
 | ⚠️ | Gas | TBD |
-| ⚠️ | Gas Limit | TBD |
+| 👷 | Gas Limit | A gas limit is the maximum amount a user is willing to pay for a particular transaction in the Ethereum blockchain. A gas limit also acts as a security measure to prevent charging the user with high fees caused by bugs or errors in code or smart contracts. |
 | ⚠️ | General Public License (GPL) | TBD |
 | ⚠️ | Genesis Block | TBD |
 | ⚠️ | Git | TBD |
