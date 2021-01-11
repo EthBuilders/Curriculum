@@ -205,7 +205,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ------ | ------ |------ |
 | ⚠️ | Gas | TBD |
 | ⚠️ | Gas Limit | TBD |
-| ⚠️ | General Public License (GPL) | TBD |
+| 👷 | General Public License (GPL) | The GPL is a combination of free software licenses that provide end-users with the permission to use, modify, and share the software.  Written by Richard Stallman, GPL is copyleft licenses. |
 | ⚠️ | Genesis Block | TBD |
 | ⚠️ | Git | TBD |
 | ⚠️ | GitHub | TBD |
