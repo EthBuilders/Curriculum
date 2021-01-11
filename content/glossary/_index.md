@@ -203,7 +203,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ | Gas | TBD |
+| 👷 | Gas | Gas is a term used to indicate the fee required to perform a transaction on the Ethereum blockchain platform. The price of gas is determined by miners who can decline to process a transaction if the price does not meet their desired threshold. Gas allows for the separation of computational cost and the actual value of the cryptocurrency. |
 | ⚠️ | Gas Limit | TBD |
 | ⚠️ | General Public License (GPL) | TBD |
 | ⚠️ | Genesis Block | TBD |
