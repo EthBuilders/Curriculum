@@ -187,6 +187,11 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Fiat | |
 | ⚠️ | Filecoin | |
 | ⚠️ | Finality | |
+| 👷 | Finny | Origin of Ethereum’s denominational units are listed in terms of Wei.  Denominations help denote smaller transactions correctly. These look like lengthy fractions of ether but equate to higher values when converted to fiat currency.  
+The names used in ether denominations highlight key figures of cryptocurrency as we know it today,
+Hal Finny Cryptographer, and Bitcoin Pioneer who worked on the original bitcoin code and received the first bitcoin transaction from Satoshi Nakamoto.
+A Milliether holds a value of 1,000,000,000,000,000 Wei or 10^15 and ETH value of 10  which is called a “Finny”. 
+ |
 | ⚠️ | First Mover Advantage | |
 | ⚠️ | Fiscal Policy | |
 | ⚠️ | Flippening | |
