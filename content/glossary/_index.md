@@ -85,7 +85,8 @@ There are two main types of automated market makers. One may be governed and set
 | 👷 | Bitcoin core | Bitcoin Core consists of both “full-node” software for fully validating the blockchain as well as a bitcoin wallet. Bitcoin Core is programmed to decide which blockchain contains a valid transaction. Users of Bitcoin Core only accept transactions for that blockchain, making it the Bitcoin blockchain that everyone else to use. The open-source project maintains and releases Bitcoin client software called “Bitcoin Core”; which is the descendant of the original Bitcoin software client by Satoshi Nakamoto after publishing the Bitcoin whitepaper. |
 | ⚠️ | Bitcoin dominance | TBD |
 | ⚠️ | Bitcoin Improvement Proposals (BIPS) | TBD |
-| ⚠️ | Blockchain | TBD |
+| 👷 | Blockchain | A digital database containing information that can be simultaneously used or shared within a large decentralized, publicly accessible network. A blockchain is a digital record of transactions in which individual records, called blocks, are linked together in a single list, called a chain. Blockchains are used for recording transactions and have many other applications. Each transaction added to a blockchain is validated by multiple computers on the internet. These systems monitor specific types of transactions, form a peer to peer networks. They work together to ensure each transaction is valid before it's added to the blockchain. This decentralized network of computers ensures that a single system can't add invalid blocks to the chain.
+When new blocks are added to the chain, it's linked to the previous block by a cryptographic hash generated from the content of the previous block ensuring the chain is never broken and that each block is permanently recorded.|
 | ⚠️ | Block explorer | TBD |
 | ⚠️ | Block Header | TBD |
 | ⚠️ | Block Height | Number of blocks that have been currently mined since genesis |
