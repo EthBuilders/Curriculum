@@ -117,7 +117,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Centralized | TBD |
 | ⚠️ | Cipher| TBD |
 | ⚠️ | Circulating Supply | TBD |
-| ⚠️ | Cloud| TBD |
+| 👷 | Cloud| Cloud computing is simply the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software. An increasingly popular alternative to saving files on a proprietary hard drive or local storage device, cloud-based storage makes it possible to save them to a remote database. As long as an electronic device has access to the web, it has access to the data and the software programs to run it. Cloud computing is a popular option for people and businesses for several reasons including; cost savings, increased productivity, speed and efficiency, performance, and security. |
 | ⚠️ | Coin | TBD |
 | ⚠️ | Coinbase (Bitcoin) |  The transaction that rewards a miner with the block reward and any transaction fees for their work on the Bitcoin network. |
 | ⚠️ | Colocation | TBD |
