@@ -173,7 +173,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | ERC-20 | TBD |
 | ⚠️ | ERC-721 | TBD |
 | ⚠️ | ERC-1569 | TBD |
-| ⚠️ | Exchange  | TBD |
+| 👷 | Exchange  | An exchange is defined as a stock exchange in a given country. These exchanges often share certain characteristics like a storied history, a catalog of listings from top companies, an inventory of important foreign listings, a large total market capitalization, and significant trade value. A country may have other important stock exchanges in addition to its primary exchange. I.E., the New York Stock Exchange (NYSE) is considered the primary exchange of the United States. Since we are immersed in Blockchain and Cryptocurrency, let's take a closer look at these exchanges. A cryptocurrency exchange is a digital marketplace where traders can buy and sell cryptocurrencies using different fiat currencies or altcoins. These exchanges provide an online platform that acts as an intermediary between buyers and sellers of the cryptocurrency. |
 
 ### [F](##tables)
 
