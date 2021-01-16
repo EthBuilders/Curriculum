@@ -118,6 +118,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Cipher| TBD |
 | ⚠️ | Circulating Supply | TBD |
 | ⚠️ | Cloud| TBD |
+| 👷  | Codebase Fork | Is a copy of the code of software implementation. A fork typically makes tweaks to the original codebase. In Bitcoin, codebase forks can be compatible with the Bitcoin protocol, or they can cause a blockchain fork and establish a whole new cryptocurrency. |
 | ⚠️ | Coin | TBD |
 | ⚠️ | Coinbase (Bitcoin) |  The transaction that rewards a miner with the block reward and any transaction fees for their work on the Bitcoin network. |
 | ⚠️ | Colocation | TBD |
