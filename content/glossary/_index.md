@@ -86,6 +86,7 @@ There are two main types of automated market makers. One may be governed and set
 | ⚠️ | Bitcoin dominance | TBD |
 | ⚠️ | Bitcoin Improvement Proposals (BIPS) | TBD |
 | ⚠️ | Blockchain | TBD |
+| 👷 | Blockchain Fork | A fork when a blockchain branches into two versions of the transaction history. This happens for many reasons be it expected or unexpected and depending on the circumstances lead to several outcomes, ranging from a single orphaned block, or even a whole new cryptocurrency. |
 | ⚠️ | Block explorer | TBD |
 | ⚠️ | Block Header | TBD |
 | ⚠️ | Block Height | Number of blocks that have been currently mined since genesis |
