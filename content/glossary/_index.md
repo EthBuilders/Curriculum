@@ -331,7 +331,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Passive Management | TBD |
 | ⚠️ | Peer-to-Peer (P2P) | TBD |
 | ⚠️ | Pegged Currency | TBD |
-| ⚠️ | Phishing | TBD |
+| 👷 | Phishing | Phishing is the act of trying to obtain sensitive information like account data and passwords through means of deception. This deception is typically enacted through email, instant messaging, and text by pretending to be a trusted website or authority.  |
 | ⚠️ | Plasma | TBD |
 | ⚠️ | Ponzi Scheme | TBD |
 | ⚠️ | Price Action | TBD |
