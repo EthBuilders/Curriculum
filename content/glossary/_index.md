@@ -220,6 +220,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Haha Money Printer Go BRRRRRR | A meme circulating in 2020 is making fun of the United States Federal Reserves policy of quantitative easing, aka printing money out of thin air. |
 | ⚠️ | Halving |  |
 | ⚠️ | Hard Cap |  |
+|👷 | Hard Fork | A type of protocol upgrade that loosens or removes rules and if all users upgrade, the fork doesn’t create a blockchain fork. In Bitcoin, some argue that unless all users upgrade, the protocol shouldn’t be called a hard fork and should create a new cryptocurrency or fork coin. |
 | 👷 | Hash | The output produced by a hash function. Also known as a digest, hash value, or hash code |
 | 👷 | Hash function | Any function used to map data of an arbitrary size to fixed-size value. Usually, it is deterministic, one way and returns a hexidecimal number output. |
 | 👷 | Hash Rate | The speed at which a computer or mining hardware calculates new hashes. Measured in hashes per second. |
