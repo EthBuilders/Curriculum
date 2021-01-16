@@ -386,6 +386,7 @@ The goal of shelfish mining is to remain at least one block ahead of the network
 | ⚠️ | Smart Contract | TBD |
 | ⚠️ | Snapshot | TBD |
 | ⚠️ | Snapshot (Tool) | TBD |
+| 👷 | Soft Fork | A protocol upgrade that tightens or adds rules. These upgrades can cause blockchain forks. However, enforcement by majority hash power guarantees convergence on the same transaction history. Miner-activated soft forks are triggered by hash power, and user-activated soft forks are activated by users. |
 | ⚠️ | Source Code | TBD |
 | ⚠️ | Stablecoin | TBD |
 | ⚠️ | Staking | TBD |
