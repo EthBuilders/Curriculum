@@ -439,7 +439,9 @@ The goal of shelfish mining is to remain at least one block ahead of the network
 | ⚠️ | Weak Hands | TBD |
 | ⚠️ | Weak Subjectivity | TBD |
 | ⚠️ | Web 1.0 | TBD |
-| ⚠️ | Web 2.0 | TBD |
+| 👷  | Web 2.0 | Refers to the world wide websites highlighting user-generated content, usability, and interoperability for end users. Web 2.0 is also called the participative social web. It doesn't refer to the modification of any technical specification, but modifying the way Web pages are designed and used. 
+The web browser technologies used in Web 2.0 development include AJAX and JavaScript frameworks which have become a popular means of creating web 2.0 sites.
+Features include free sorting of information permitting users to retrieve and classify information collectively, dynamic content responsive to user input, and information flowing between site owners and site users evaluation with online commenting, the developed APIs allowed self-usage, by software applications, and web access to a wider variety of users. Usage of Web 2.0 includes the social Web containing several online tools, platforms allowing people to share their perspectives, opinions, thoughts, as well as experiences. The applications tend to interact more with end-users allowing the user to participate by tools such as Content voting, blogging, curating with RSS, tagging, podcast, social bookmarking, networking, and media. |
 | ⚠️ | Web 3.0 | TBD |
 | ⚠️ | Wei | TBD |
 | ⚠️ | Whale | TBD |
