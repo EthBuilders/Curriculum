@@ -440,7 +440,8 @@ The goal of shelfish mining is to remain at least one block ahead of the network
 | ⚠️ | Weak Subjectivity | TBD |
 | ⚠️ | Web 1.0 | TBD |
 | ⚠️ | Web 2.0 | TBD |
-| ⚠️ | Web 3.0 | TBD |
+| 👷 | Web 3.0 | After a time, focusing on the front-end Web 2.0 has been about front-end user-experience innovation. Web 3.0 the utilization and interaction altering the web into a database enabling the upgrade to the back-end data isn’t owned but shared by showing different views for the same web/data. The Semantic Web uses declarative ontological language to produce domain-specific ontologies that machines use to reason and make conclusions by not simply matching keywords. By combining capabilities of natural language processing; Web 3.0 can decipher information humanly to provide faster results to fulfill the requirements of a user. 
+This evolution involves improving technologies to create, share, and connect content accessible by multiple applications every device connected to the web, and services can be used everywhere. |
 | ⚠️ | Wei | TBD |
 | ⚠️ | Whale | TBD |
 | ⚠️ | Whiskers | TBD |
