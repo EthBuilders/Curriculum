@@ -441,7 +441,7 @@ The goal of shelfish mining is to remain at least one block ahead of the network
 | ⚠️ | Web 1.0 | TBD |
 | ⚠️ | Web 2.0 | TBD |
 | ⚠️ | Web 3.0 | TBD |
-| ⚠️ | Wei | TBD |
+| 👷 | Wei |  Wei Dai is a notable cryptography activist known for supporting the widespread use of strong cryptography and privacy-oriented technologies. Prices of cryptocurrencies transaction sizes vary. Wei is the smallest denomination of ether, the coin used on the Ethereum network. 1 Ether = 1,000,000,000,000,000,000 Wei (10^18). The quantity number may appear small, but it was created to correctly identify, and support transactions. |
 | ⚠️ | Whale | TBD |
 | ⚠️ | Whiskers | TBD |
 | ⚠️ | Whitelist | TBD |
