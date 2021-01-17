@@ -184,7 +184,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | ⚠️ | Fear of Missing Out (FOMO) |  |
 | ⚠️ | Fear, Uncertainty and Doubt (FUD) |  |
 | ⚠️ | FUDDING | Creating fear, uncertainty and doubt |
-| ⚠️ | Fiat | |
+| 👷 | Fiat | Fiat money is a government-issued currency that has not been backed by a physical commodity, such as gold or silver, but rather by the government that issued it. The value of fiat money is derived from the relationship between supply and demand and the stability of the issuing government. Most modern paper currencies are fiat currencies, including the U.S. dollar, the euro, and other major global currencies.|
 | ⚠️ | Filecoin | |
 | ⚠️ | Finality | |
 | ⚠️ | First Mover Advantage | |
