@@ -438,7 +438,8 @@ The goal of shelfish mining is to remain at least one block ahead of the network
 | ⚠️ | Wallet | TBD |
 | ⚠️ | Weak Hands | TBD |
 | ⚠️ | Weak Subjectivity | TBD |
-| ⚠️ | Web 1.0 | TBD |
+| 👷 | Web 1.0 | Refers to the first stage of the World Wide Web evolution. There were few content creators with a majority of users being content consumers. Personal web pages were common, consisting of static pages hosted on ISP-run web servers, or free web hosting. Advertising on websites while surfing the internet was banned and Ofoto was an online digital photography site, which users could store, view, share, and print digital pictures. Web 1.0 utilized a content delivery network (CDN) that enabled showcasing a portion of information and could be used as a personal website. Its cost to users as a per pages view and the directories enabled users to retrieve particular pieces of information. The essentials of a Web 1.0 site included static pages, Pages built using Server Side Includes or Common Gateway Interface (CGI), content served from the server’s file-system, frames, and tables used to position and align elements on a page. 
+ |
 | ⚠️ | Web 2.0 | TBD |
 | ⚠️ | Web 3.0 | TBD |
 | ⚠️ | Wei | TBD |
