@@ -165,7 +165,8 @@ Since prices continuously rise and fall during trading, the classification of "b
 
 | Legend | Term | Description |
 | ------ | ------ |------ |
-| ⚠️ | Efficient Market Hypothesis  | TBD |
+| 👷 | Efficient Market Hypothesis  | The efficient market hypothesis (EMH), alternatively known as the efficient market theory, is a hypothesis that states that share prices reflect all available, pertinent information, thereby making it impossible to beat the system.
+According to the EMH, stocks always trade at their fair value on exchanges, making it impossible for investors to purchase undervalued stocks or sell stocks for inflated prices. Therefore, it should be impossible to outperform the overall market through expert stock selection or market timing; the only way an investor can obtain higher returns is by purchasing riskier investments.|
 | ⚠️ | Elliptic Curve Cryptography  | TBD |
 | ⚠️ | Ethereum  | TBD |
 | ⚠️ | Ethereum Enterprise Alliance (EEA)  | TBD |
