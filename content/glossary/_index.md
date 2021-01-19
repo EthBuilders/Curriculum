@@ -166,7 +166,7 @@ Since prices continuously rise and fall during trading, the classification of "b
 | Legend | Term | Description |
 | ------ | ------ |------ |
 | ⚠️ | Efficient Market Hypothesis  | TBD |
-| ⚠️ | Elliptic Curve Cryptography  | TBD |
+| 👷 | Elliptic Curve Cryptography  | Elliptical Curve Cryptography (ECC) develop by Certicom; a mobile e-business security provider with unique potential as a technology that can be implemented worldwide across all devices. Elliptical Curve Cryptography public-key encryption based on the elliptic curve theory used to create faster, smaller more efficient cryptographic keys generated through properties of the elliptic curve equation; that can be used with most public-key encryption, and methods yielding a level of security with a 164-bit key. Helping establish equivalent security with lower computing power and battery resource usage. It's becoming widely used for mobile applications. ECC is based on properties of an equation created from the mathematical group derived from points where the line intersects the axes, multiplying a point on the curve by a number producing another point on the curve. It's difficult finding the number used even knowing the original point and result. Equations based on elliptic curves have characteristics valuable for cryptography purposes: they are easy to perform and difficult to reverse.|
 | ⚠️ | Ethereum  | TBD |
 | ⚠️ | Ethereum Enterprise Alliance (EEA)  | TBD |
 | ⚠️ | Ethereum Foundation | TBD |
