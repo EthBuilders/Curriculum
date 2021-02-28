@@ -86,7 +86,7 @@ There are two main types of automated market makers. One may be governed and set
 | ⚠️ | Bitcoin dominance | TBD |
 | ⚠️ | Bitcoin Improvement Proposals (BIPS) | TBD |
 | ⚠️ | Blockchain | TBD |
-| ⚠️ | Block explorer | TBD |
+| 👷 | Block explorer | a block explorer is an online blockchain browser that reveals the data of individual blocks and transactions. With the tool, we can monitor transaction histories and balances of addresses |
 | ⚠️ | Block Header | TBD |
 | ⚠️ | Block Height | Number of blocks that have been currently mined since genesis |
 | ⚠️ | Block Reward | Amount of token reward miners get per block successfully mined |
