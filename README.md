@@ -50,6 +50,12 @@ Helpful emojis to let you know status of each section
 |⚠️| [Vyper](vyper.md) | Pythonic-like smart contract programming language for Ethereum |
 |⚠️| [Scribble](scribble.md) | A runtime verification tool to transform contracts to check properties for easier testing |
 
+## Learn Zero-Knowledge Proofs
+| Status | Topic | About |
+|⚠️| [chainlink | P[ythonic-like smart contract programming language for Ethereum](https://blog.chain.link/zero-knowledge-projects/) |
+
+
+
 ## Learn how to Collaborate
 
 | Status | Topic | About |
@@ -75,3 +81,4 @@ A walk through of basic projects you can learn by following along.
 | [Dapp University](https://www.youtube.com/watch?v=XLahq4qyors) | Video |Full Ethereum Programming Course |
 | [ConsenSys Dev Portal](https://consensys.net/developers/) | Text | Dev Portal for ConsenSys |
 | [Ethereum.org](https://ethereum.org/en/) | Text | The Official Etheruem Website |
+
